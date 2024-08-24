@@ -7,8 +7,15 @@ main:
   - name: Bio
     url: /
     weight: 10
-  - name: Notes
+  - name: Main Physics Notes
     url: /#notes
-    weight: 10
+    weight: 20
+  - name: Extra Notes
+    url: /#othernotes
+    weight: 30
+  - name: Research Notes
+    url: /#researchnotes
+    weight: 40
+    
 
 

@@ -17,9 +17,16 @@ hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true
 
+
+  
+  
+
+
 ############################
 ## ADVANCED
 ############################
+
+
 
 build:
   writeStats: true
