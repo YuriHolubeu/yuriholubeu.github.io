@@ -179,30 +179,30 @@ sections:
 
 
 
-        <ul><li><a  href="https://nbviewer.org/github/YuriHolubeu/Physics-Notes/blob/main/specific_physics/◊%20cosmology.pdf" target="_blank">cosmology</a></li></ul>
+        <ul><li><a  href="https://nbviewer.org/github/YuriHolubeu/Physics-Notes/blob/main/specific%20physics/◊%20cosmology.pdf" target="_blank">cosmology</a></li></ul>
 
 
 
-        <ul><li><a  href="https://nbviewer.org/github/YuriHolubeu/Physics-Notes/blob/main/specific_physics/●%20quantum%20information%20theory.pdf" target="_blank">quantum information theory</a></li></ul>
+        <ul><li><a  href="https://nbviewer.org/github/YuriHolubeu/Physics-Notes/blob/main/specific%20physics/●%20quantum%20information%20theory.pdf" target="_blank">quantum information theory</a></li></ul>
 
 
 
-        <ul><li><a  href="https://nbviewer.org/github/YuriHolubeu/Physics-Notes/blob/main/specific_physics/☐%20thermodynamics.pdf" target="_blank">thermodynamics</a></li></ul>
+        <ul><li><a  href="https://nbviewer.org/github/YuriHolubeu/Physics-Notes/blob/main/specific%20physics/☐%20thermodynamics.pdf" target="_blank">thermodynamics</a></li></ul>
 
 
 
-        <ul><li><a  href="https://nbviewer.org/github/YuriHolubeu/Physics-Notes/blob/main/specific_physics/♣%20magnetism.pdf" target="_blank">magnetism</a></li></ul>
+        <ul><li><a  href="https://nbviewer.org/github/YuriHolubeu/Physics-Notes/blob/main/specific%20physics/♣%20magnetism.pdf" target="_blank">magnetism</a></li></ul>
 
 
-        <ul><li><a  href="https://nbviewer.org/github/YuriHolubeu/Physics-Notes/blob/main/specific_physics/optics.pdf" target="_blank">optics</a></li></ul>
+        <ul><li><a  href="https://nbviewer.org/github/YuriHolubeu/Physics-Notes/blob/main/specific%20physics/optics.pdf" target="_blank">optics</a></li></ul>
         
 
 
-        <ul><li><a  href="https://nbviewer.org/github/YuriHolubeu/Physics-Notes/blob/main/specific_physics/superconductivity.pdf" target="_blank">superconductivity</a></li></ul>
+        <ul><li><a  href="https://nbviewer.org/github/YuriHolubeu/Physics-Notes/blob/main/specific%20physics/superconductivity.pdf" target="_blank">superconductivity</a></li></ul>
         
 
 
-        <ul><li><a  href="https://nbviewer.org/github/YuriHolubeu/Physics-Notes/blob/main/specific_physics/special%20field%20and%20gravity%20theories.pdf" target="_blank">special physical theories</a></li></ul>
+        <ul><li><a  href="https://nbviewer.org/github/YuriHolubeu/Physics-Notes/blob/main/specific%20physics/special%20field%20and%20gravity%20theories.pdf" target="_blank">special physical theories</a></li></ul>
         
 
 
