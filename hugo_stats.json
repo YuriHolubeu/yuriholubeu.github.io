@@ -3,6 +3,7 @@
     "tags": [
       "a",
       "article",
+      "b",
       "body",
       "button",
       "circle",
@@ -30,7 +31,10 @@
       "section",
       "style",
       "svg",
+      "table",
+      "td",
       "title",
+      "tr",
       "ul"
     ],
     "classes": [
@@ -199,11 +203,9 @@
       "z-30"
     ],
     "ids": [
-      "Specific physics notes",
       "about-me",
       "basic physics notes",
       "hide-button",
-      "mathematics physics notes",
       "moon",
       "nav-menu",
       "nav-toggle",

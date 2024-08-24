@@ -54,7 +54,7 @@ interests:
   - Statistical Physics
 
 education:
-  - area: MPhys Theoretical Physics (Oct 2022-Jan 2025)
+  - area: MPhys Theoretical Physics (Oct 2022-Jan 2025 (planned))
     institution: KU Leuven Institute
   - area: BSc Physics (2016-2021)
     institution: Moscow Institute of Physics and Technology (MIPT)
