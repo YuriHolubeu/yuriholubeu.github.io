@@ -41,6 +41,8 @@ profiles:
     url: https://github.com/YuriHolubeu
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/yury-holubeu/
+  - icon: brands/telegram
+    url: https://www.t.me/YuryHolubeu
 #  - icon: academicons/google-scholar
 #    url: https://scholar.google.com/
 #  - icon: academicons/orcid
@@ -52,7 +54,7 @@ interests:
   - Statistical Physics
 
 education:
-  - area: MPhys Theoretical Physics (2022-2024)
+  - area: MPhys Theoretical Physics (Oct 2022-Jan 2025)
     institution: KU Leuven Institute
   - area: BSc Physics (2016-2021)
     institution: Moscow Institute of Physics and Technology (MIPT)
@@ -64,6 +66,9 @@ education:
 
 
 
-I am Yura and I am finishing my master's degree in pysics in KU Leuven.
+I am Yura and I am finishing my master's degree in physics at KU Leuven.
+Most of my days I am thinking about some specific research-related topics or mastering typical methods of basic parts of physics.
+Currently, I am in search of a Ph.D. position or job, for this, I have created this webpage. 
+If I can be useful in some research, or if you just want to discuss some parts of physics, write to me, do not hesitate.
 
 
