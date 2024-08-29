@@ -54,7 +54,7 @@ interests:
   - Statistical Physics
 
 education:
-  - area: MPhys Theoretical Physics (Oct 2022-Jan 2025 (planned))
+  - area: MPhys Theoretical Physics (Dec 2022-Jan 2025 (planned))
     institution: KU Leuven Institute
   - area: BSc Physics (2016-2021)
     institution: Moscow Institute of Physics and Technology (MIPT)
@@ -66,9 +66,9 @@ education:
 
 
 
-I am Yura and I am finishing my master's degree in physics at KU Leuven.
+I'm a student of Masers of Physics at KU Leuven.
 Most of my days I am thinking about some specific research-related topics or mastering typical methods of basic parts of physics.
-Currently, I am in search of a Ph.D. position or job, for this, I have created this webpage. 
-If I can be useful in some research, or if you just want to discuss some parts of physics, write to me, do not hesitate.
+Currently, I am in search of a Ph.D. position or a job, for this, I have created this webpage. 
+If have found this page randomly and you want discuss some of physics, write me through links at the left.
 
 

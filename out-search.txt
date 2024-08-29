@@ -1,0 +1,9 @@
+File: C:\Users\Yury\Desktop\yuriholubeu.github.io\search-in-all-files.py
+search_text = "Download"
+
+File: C:\Users\Yury\Desktop\yuriholubeu.github.io\content\_index.md
+        text: Download CV
+
+File: C:\Users\Yury\Desktop\yuriholubeu.github.io\public\index.html
+    </svg> Download CV</a>
+
