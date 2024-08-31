@@ -2,11 +2,15 @@
 # Если нужно искать в .sty файлах, меняйте ниже чуть код! По умолчанию он ищет в .tex файлах
 
 
+# Тут с разным регистром - разные слова, он не будет находить "Привет" по строке "привет". Учитвай!
+
+
+
 import os
 import fnmatch
 
 
-search_text = "Download"
+search_text = "e builder that empow"
 
 def search_in_file(file_path, search_text, search_output_lines):
     """Search for search_text in the specified file and collect lines containing the search_text."""

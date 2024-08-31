@@ -36,7 +36,7 @@ sections:
 
 #
 #
-#                        !!!!!! не забывай, что я указываю явно номер коммита в гитхабе, что работали пдф файлы. Если обновлял их, то нужно изменить имя коммита тут!!!! Ну или разглдит nbviewer.org
+#   !!!!!! не забывай, что nbviewer.org обновляет файлы по одному дню, ну или явно нужно указывать номер коммита
 #
 #
 #
@@ -47,28 +47,28 @@ sections:
     content:
       title: <h1>Main Physics Notes</h1>
       subtitle: ''
+
       text: |-    
 
 
-        From approximately 2020 I am studying physics by creating notes which collects all important knowledge of parts of physics that I have touched.
-        I have some general ideas, why this approach has prospects and I wrote it <a  href="https://nbviewer.org/github/YuriHolubeu/Physics-Notes/6f1f5a4a0005a06918e136b53f5afdfebdd72103/basic%20physics/idea-of-notes.pdf" target="_blank">here</a> (?!!!).
-        There is also an explanation, how I am using them, it is not very typical.
-        If you are interested, please read this file before opening my notes.
 
+
+        <p style="line-height: 1;"><font size="3"> 
+        For many years I have been studying physics using a not so typical approach, which I describe <a  href="https://nbviewer.org/github/YuriHolubeu/Physics-Notes/decription of my notes.pdf" target="_blank">here</a>.
+        Following such a philosophy of doing science, I have created notes below. Now they are an unfinished demo version, that illustrates how they will look after several years of working on them.
+        I update them on this webpage approximately once a month.
+        
+        </font></p>
 
       
         <h2 id="basic physics notes">Notes on Basic Physics </h2>
 
-        Below are notes on the most important parts of physics and which are a fundamental for any theoretical physicist.
+
+        <p style="line-height: 1;"><font size="3">Below are notes on the most important parts of physics and which are a fundamental for a theoretical physicist.</font></p>
+
+
 
         <div style="line-height: 0.4;"> 
-
-
-
-        [An Internal Link](/uploads/basic-physics/mechanics.pdf)
-
-
-        <ul><li><a  href="https://github.com/YuriHolubeu/yuriholubeu.github.io/blob/main/static/uploads/basic%20physics/%E2%96%A0%20%20mechanics.pdf" target="_blank">mechanics-test-2</a></li></ul>
 
 
         <ul><li><a  href="https://nbviewer.org/github/YuriHolubeu/Physics-Notes/blob/main/basic%20physics/%E2%96%A0%20%20mechanics.pdf" target="_blank">mechanics</a></li></ul>
@@ -87,6 +87,9 @@ sections:
         
         
         <ul><li><a  href="https://nbviewer.org/github/YuriHolubeu/Physics-Notes/blob/main/basic%20physics/☐%20%20statistical%20physics.pdf" target="_blank">statistical physics</a></li></ul>
+
+
+        <ul><li><a  href="https://nbviewer.org/github/YuriHolubeu/Physics-Notes/blob/main/basic%20physics/☐ condensed matter.pdf" target="_blank">condensed matter</a></li></ul>
 
 
         <ul><li><a  href="https://nbviewer.org/github/YuriHolubeu/Physics-Notes/blob/main/basic%20physics/☼%20kinetics.pdf" target="_blank">kinetics</a></li></ul>
@@ -144,8 +147,12 @@ sections:
       text: |-    
 
 
+        
 
-        From time to time I study mathematics or some specific fields of physics, and I have created notes abot them.
+        <p style="line-height: 1;"><font size="3">   
+        From time to time I study mathematics or some specific fields of physics, and below are my notes about some of the most important of them.
+          </font></p>
+
 
 
         <table border="0">
@@ -171,12 +178,12 @@ sections:
         <ul><li><a  href="https://nbviewer.org/github/YuriHolubeu/Mathematics-Notes/blob/main/basic%20mathematics/◊  partial differential equations.pdf" target="_blank">partial diff. equations</a></li></ul>
 
 
+        <ul><li><a  href="https://nbviewer.org/github/YuriHolubeu/Mathematics-Notes/blob/main/special%20mathematics/■ special functions.pdf" target="_blank">special functions</a></li></ul>
+
+
         <ul><li><a  href="https://nbviewer.org/github/YuriHolubeu/Mathematics-Notes/blob/main/basic%20mathematics/◊ oscillations.pdf" target="_blank">oscillations</a></li></ul>
         
         
-        <ul><li><a  href="https://nbviewer.org/github/YuriHolubeu/Mathematics-Notes/blob/main/basic%20mathematics/◘ differential geometry.pdf" target="_blank"> differential geometry</a></li></ul>
-
-
         <ul><li><a  href="https://nbviewer.org/github/YuriHolubeu/Mathematics-Notes/blob/main/basic%20mathematics/☐ algebra.pdf" target="_blank">algebra</a></li></ul>
         
         
@@ -188,8 +195,7 @@ sections:
 
 
 
-        <ul><li><a  href="https://nbviewer.org/github/YuriHolubeu/Mathematics-Notes/blob/main/special%20mathematics/■ special functions.pdf" target="_blank">special functions</a></li></ul>
-
+        <ul><li><a  href="https://nbviewer.org/github/YuriHolubeu/Mathematics-Notes/blob/main/basic%20mathematics/◘ differential geometry.pdf" target="_blank"> differential geometry</a></li></ul>
 
 
 
@@ -220,10 +226,6 @@ sections:
 
 
 
-        <ul><li><a  href="https://nbviewer.org/github/YuriHolubeu/Physics-Notes/blob/main/specific%20physics/●%20quantum%20information%20theory.pdf" target="_blank">quantum information</a></li></ul>
-
-
-
         <ul><li><a  href="https://nbviewer.org/github/YuriHolubeu/Physics-Notes/blob/main/specific%20physics/☐%20thermodynamics.pdf" target="_blank">thermodynamics</a></li></ul>
 
 
@@ -237,6 +239,10 @@ sections:
 
         <ul><li><a  href="https://nbviewer.org/github/YuriHolubeu/Physics-Notes/blob/main/specific%20physics/superconductivity.pdf" target="_blank">superconductivity</a></li></ul>
         
+
+
+        <ul><li><a  href="https://nbviewer.org/github/YuriHolubeu/Physics-Notes/blob/main/specific%20physics/●%20quantum%20information%20theory.pdf" target="_blank">quantum information</a></li></ul>
+
 
 
         </div>
@@ -290,8 +296,14 @@ sections:
 
         <h2 id="basic physics notes">Notes on Some Reserach Projects in Physics</h2>
         
+        
+        
 
+        <p style="line-height: 1;"><font size="3"> 
         I had several research projects, which didn't lead to articles, but nevertheless I undrestood many methods and many formulas, so I collected them in the notes below. These are not the only my projects, but on them I wos working more than on others. Maybe I'll return to some of them one day.
+        </font></p>
+
+
 
 
 

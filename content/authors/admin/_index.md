@@ -54,10 +54,12 @@ interests:
   - Statistical Physics
 
 education:
-  - area: MPhys Theoretical Physics (Dec 2022-Jan 2025 (planned))
+  - area: MPhys Theoretical Physics (Nov 2022-Jan 2025 (planned))
     institution: KU Leuven Institute
+  - area: MPhys Theoretical Physics (Sep 2021-Apr 2022)
+    institution: Moscow Institute of Physics and Technology (MIPT), DGAP
   - area: BSc Physics (2016-2021)
-    institution: Moscow Institute of Physics and Technology (MIPT)
+    institution: Moscow Institute of Physics and Technology (MIPT), DGAP
 
 
 ---
@@ -66,9 +68,8 @@ education:
 
 
 
-I'm a student of Masers of Physics at KU Leuven.
-Most of my days I am thinking about some specific research-related topics or mastering typical methods of basic parts of physics.
+Currently, I'm a student of Masters of Physics at KU Leuven.
+Most of my days I am thinking about some research-related topics or mastering typical methods of physics or mathematics.
 Currently, I am in search of a Ph.D. position or a job, for this, I have created this webpage. 
-If have found this page randomly and you want discuss some of physics, write me through links at the left.
-
+If have found this page randomly and you want to discuss some of physics or tell me something, write me through the links at the left.
 

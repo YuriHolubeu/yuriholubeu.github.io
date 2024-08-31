@@ -1,9 +1,15 @@
 File: C:\Users\Yury\Desktop\yuriholubeu.github.io\search-in-all-files.py
-search_text = "Download"
+search_text = "e builder that empow"
 
-File: C:\Users\Yury\Desktop\yuriholubeu.github.io\content\_index.md
-        text: Download CV
+File: C:\Users\Yury\Desktop\yuriholubeu.github.io\public\404.html
+      Published with <a href="https://hugoblox.com/?utm_campaign=poweredby" target="_blank" rel="noopener">Hugo Blox Builder</a> — the free, <a href="https://github.com/HugoBlox/hugo-blox-builder" target="_blank" rel="noopener">open source</a> website builder that empowers creators.
 
 File: C:\Users\Yury\Desktop\yuriholubeu.github.io\public\index.html
-    </svg> Download CV</a>
+      Published with <a href="https://hugoblox.com/?utm_campaign=poweredby" target="_blank" rel="noopener">Hugo Blox Builder</a> — the free, <a href="https://github.com/HugoBlox/hugo-blox-builder" target="_blank" rel="noopener">open source</a> website builder that empowers creators.
+
+File: C:\Users\Yury\Desktop\yuriholubeu.github.io\public\publication_types\index.html
+      Published with <a href="https://hugoblox.com/?utm_campaign=poweredby" target="_blank" rel="noopener">Hugo Blox Builder</a> — the free, <a href="https://github.com/HugoBlox/hugo-blox-builder" target="_blank" rel="noopener">open source</a> website builder that empowers creators.
+
+File: C:\Users\Yury\Desktop\yuriholubeu.github.io\public\tags\index.html
+      Published with <a href="https://hugoblox.com/?utm_campaign=poweredby" target="_blank" rel="noopener">Hugo Blox Builder</a> — the free, <a href="https://github.com/HugoBlox/hugo-blox-builder" target="_blank" rel="noopener">open source</a> website builder that empowers creators.
 
