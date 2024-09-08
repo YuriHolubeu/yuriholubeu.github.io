@@ -45,7 +45,7 @@ sections:
   - block: markdown
     id: notes
     content:
-      title: <h1>Main Physics Notes</h1>
+      title: <h1>Notes on Basic Physics </h1>
       subtitle: ''
 
       text: |-    
@@ -54,18 +54,12 @@ sections:
 
 
         <p style="line-height: 1;"><font size="3"> 
-        For many years I have been studying physics using a not so typical approach, which I describe <a  href="https://nbviewer.org/github/YuriHolubeu/Physics-Notes/decription of my notes.pdf" target="_blank">here</a>.
+        For many years I have been studying physics using the approach I describe <a  href="https://nbviewer.org/github/YuriHolubeu/Physics-Notes/blob/main/decription of my notes.pdf" target="_blank">here</a>.
         Following such a philosophy of doing science, I have created notes below. Now they are an unfinished demo version, that illustrates how they will look after several years of working on them.
+        Below are notes on the most important parts of physics
         I update them on this webpage approximately once a month.
         
         </font></p>
-
-      
-        <h2 id="basic physics notes">Notes on Basic Physics </h2>
-
-
-        <p style="line-height: 1;"><font size="3">Below are notes on the most important parts of physics and which are a fundamental for a theoretical physicist.</font></p>
-
 
 
         <div style="line-height: 0.4;"> 
@@ -150,15 +144,15 @@ sections:
         
 
         <p style="line-height: 1;"><font size="3">   
-        From time to time I study mathematics or some specific fields of physics, and below are my notes about some of the most important of them.
+        From time to time I study mathematics or some specific fields of physics, and below are my notes on some of the most important of them.
           </font></p>
 
 
 
         <table border="0">
         <tr>
-        <td><b style="font-size:30px">Notes on Basic Mathematics </b></td>
-        <td><b style="font-size:30px">Notes on Specific Physics</b></td>
+        <td><b style="font-size:20px">Notes on Basic Mathematics </b></td>
+        <td><b style="font-size:20px">Notes on Specific Physics</b></td>
         </tr>
         <tr>
         <td>
@@ -167,35 +161,35 @@ sections:
         <div style="line-height: 0.4;"> 
 
 
-        <ul><li><a  href="https://nbviewer.org/github/YuriHolubeu/Mathematics-Notes/blob/main/basic%20mathematics/■%20%20mathematical analysis.pdf" target="_blank">mathematical analysis</a></li></ul>
+        <ul><li><a  href="https://nbviewer.org/github/YuriHolubeu/Mathematics-Notes/blob/main/■%20%20mathematical analysis.pdf" target="_blank">mathematical analysis</a></li></ul>
         
         
-        <ul><li><a  href="https://nbviewer.org/github/YuriHolubeu/Mathematics-Notes/blob/main/basic%20mathematics/■%20complex analysis.pdf" target="_blank">complex analysis</a></li></ul>
+        <ul><li><a  href="https://nbviewer.org/github/YuriHolubeu/Mathematics-Notes/blob/main/■%20complex analysis.pdf" target="_blank">complex analysis</a></li></ul>
 
-        <ul><li><a  href="https://nbviewer.org/github/YuriHolubeu/Mathematics-Notes/blob/main/basic%20mathematics/◊  differential equations.pdf" target="_blank">differential equations</a></li></ul>
+        <ul><li><a  href="https://nbviewer.org/github/YuriHolubeu/Mathematics-Notes/blob/main/◊  differential equations.pdf" target="_blank">differential equations</a></li></ul>
         
         
-        <ul><li><a  href="https://nbviewer.org/github/YuriHolubeu/Mathematics-Notes/blob/main/basic%20mathematics/◊  partial differential equations.pdf" target="_blank">partial diff. equations</a></li></ul>
-
-
-        <ul><li><a  href="https://nbviewer.org/github/YuriHolubeu/Mathematics-Notes/blob/main/special%20mathematics/■ special functions.pdf" target="_blank">special functions</a></li></ul>
+        <ul><li><a  href="https://nbviewer.org/github/YuriHolubeu/Mathematics-Notes/blob/main/◊  partial differential equations.pdf" target="_blank">partial diff. equations</a></li></ul>
 
 
-        <ul><li><a  href="https://nbviewer.org/github/YuriHolubeu/Mathematics-Notes/blob/main/basic%20mathematics/◊ oscillations.pdf" target="_blank">oscillations</a></li></ul>
+        <ul><li><a  href="https://nbviewer.org/github/YuriHolubeu/Mathematics-Notes/blob/main/◊ oscillations.pdf" target="_blank">oscillations</a></li></ul>
+
+
+        <ul><li><a  href="https://nbviewer.org/github/YuriHolubeu/Mathematics-Notes/blob/main/■ special functions.pdf" target="_blank">special functions</a></li></ul>
+
+        
+        <ul><li><a  href="https://nbviewer.org/github/YuriHolubeu/Mathematics-Notes/blob/main/☐ algebra.pdf" target="_blank">algebra</a></li></ul>
         
         
-        <ul><li><a  href="https://nbviewer.org/github/YuriHolubeu/Mathematics-Notes/blob/main/basic%20mathematics/☐ algebra.pdf" target="_blank">algebra</a></li></ul>
-        
-        
-        <ul><li><a  href="https://nbviewer.org/github/YuriHolubeu/Mathematics-Notes/blob/main/basic%20mathematics/☐ linear algebra.pdf" target="_blank">linear algebra</a></li></ul>
+        <ul><li><a  href="https://nbviewer.org/github/YuriHolubeu/Mathematics-Notes/blob/main/☐ linear algebra.pdf" target="_blank">linear algebra</a></li></ul>
 
         
         
-        <ul><li><a  href="https://nbviewer.org/github/YuriHolubeu/Mathematics-Notes/blob/main/basic%20mathematics/♣%20%20probability%20theory.pdf" target="_blank">probability theory</a></li></ul>
+        <ul><li><a  href="https://nbviewer.org/github/YuriHolubeu/Mathematics-Notes/blob/main/♣%20%20probability%20theory.pdf" target="_blank">probability theory</a></li></ul>
 
 
 
-        <ul><li><a  href="https://nbviewer.org/github/YuriHolubeu/Mathematics-Notes/blob/main/basic%20mathematics/◘ differential geometry.pdf" target="_blank"> differential geometry</a></li></ul>
+        <ul><li><a  href="https://nbviewer.org/github/YuriHolubeu/Mathematics-Notes/blob/main/◘ differential geometry.pdf" target="_blank"> differential geometry</a></li></ul>
 
 
 
@@ -217,7 +211,7 @@ sections:
 
 
 
-        <ul><li><a  href="https://nbviewer.org/github/YuriHolubeu/Physics-Notes/blob/main/specific%20physics/special%20field%20and%20gravity%20theories.pdf" target="_blank">special theories</a></li></ul>
+        <ul><li><a  href="https://nbviewer.org/github/YuriHolubeu/Physics-Notes/blob/main/specific%20physics/❁%20special%20field%20and%20gravity%20theories.pdf" target="_blank">special field theories</a></li></ul>
         
 
 
@@ -233,11 +227,11 @@ sections:
         <ul><li><a  href="https://nbviewer.org/github/YuriHolubeu/Physics-Notes/blob/main/specific%20physics/♣%20magnetism.pdf" target="_blank">magnetism</a></li></ul>
 
 
-        <ul><li><a  href="https://nbviewer.org/github/YuriHolubeu/Physics-Notes/blob/main/specific%20physics/optics.pdf" target="_blank">optics</a></li></ul>
+        <ul><li><a  href="https://nbviewer.org/github/YuriHolubeu/Physics-Notes/blob/main/specific%20physics/♣%20optics.pdf" target="_blank">optics</a></li></ul>
         
 
 
-        <ul><li><a  href="https://nbviewer.org/github/YuriHolubeu/Physics-Notes/blob/main/specific%20physics/superconductivity.pdf" target="_blank">superconductivity</a></li></ul>
+        <ul><li><a  href="https://nbviewer.org/github/YuriHolubeu/Physics-Notes/blob/main/specific%20physics/☐%20superconductivity.pdf" target="_blank">superconductivity</a></li></ul>
         
 
 
@@ -290,17 +284,13 @@ sections:
   - block: markdown
     id: researchnotes
     content:
-      title: <h1>Notes on Research Projects</h1>
+      title: <h1>Notes on Some Reserach Projects in Physics</h1>
       subtitle: ''
       text: |- 
 
-        <h2 id="basic physics notes">Notes on Some Reserach Projects in Physics</h2>
-        
-        
-        
 
         <p style="line-height: 1;"><font size="3"> 
-        I had several research projects, which didn't lead to articles, but nevertheless I undrestood many methods and many formulas, so I collected them in the notes below. These are not the only my projects, but on them I wos working more than on others. Maybe I'll return to some of them one day.
+        I had several research projects, which didn't lead to the creation of articles, but I understood many methods and collected them in the notes below. Maybe I will return to some of these projects one day.
         </font></p>
 
 
@@ -330,7 +320,7 @@ sections:
         
         
 
-        <ul><li><a  href="https://nbviewer.org/github/YuriHolubeu/Physics-Notes/blob/main/some%20projects/duality%20in%20special%20field%20theories.pdf" target="_blank">duality in special field theories</a></li></ul></li></ul>
+        <ul><li><a  href="https://nbviewer.org/github/YuriHolubeu/Physics-Notes/blob/main/some%20projects/❁%20duality%20in%20special%20field%20theories.pdf" target="_blank">duality in special field theories</a></li></ul></li></ul>
 
 
         </div>

@@ -33,16 +33,16 @@ profiles:
   - icon: at-symbol
     url: 'mailto:yuri.holubev@gmail.com'
     label: E-mail Me
+  - icon: brands/telegram
+    url: https://www.t.me/YuryHolubeu
 #  - icon: brands/x
 #    url: https://twitter.com/GetResearchDev
 #  - icon: brands/instagram
 #    url: https://www.instagram.com/
-  - icon: brands/github
-    url: https://github.com/YuriHolubeu
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/yury-holubeu/
-  - icon: brands/telegram
-    url: https://www.t.me/YuryHolubeu
+  - icon: brands/github
+    url: https://github.com/YuriHolubeu
 #  - icon: academicons/google-scholar
 #    url: https://scholar.google.com/
 #  - icon: academicons/orcid
@@ -54,13 +54,15 @@ interests:
   - Statistical Physics
 
 education:
-  - area: MPhys Theoretical Physics (Nov 2022-Jan 2025 (planned))
-    institution: KU Leuven Institute
-  - area: MPhys Theoretical Physics (Sep 2021-Apr 2022)
-    institution: Moscow Institute of Physics and Technology (MIPT), DGAP
-  - area: BSc Physics (2016-2021)
-    institution: Moscow Institute of Physics and Technology (MIPT), DGAP
-
+  - area: MPhys  
+    year: Nov 2022-Jan 2025 (planned)
+    institution: KU Leuven Institute   
+  - area: MPhys 
+    year: Sep 2021-Apr 2022
+    institution: Moscow Institute of Physics and Technology, DGAP 
+  - area: BSc Physics 
+    institution: Moscow Institute of Physics and Technology, DGAP
+    year: 2016-2021
 
 ---
 
@@ -69,7 +71,6 @@ education:
 
 
 Currently, I'm a student of Masters of Physics at KU Leuven.
-Most of my days I am thinking about some research-related topics or mastering typical methods of physics or mathematics.
-Currently, I am in search of a Ph.D. position or a job, for this, I have created this webpage. 
-If have found this page randomly and you want to discuss some of physics or tell me something, write me through the links at the left.
-
+Most of my days I think about some research-related topics or mastering typical methods of physics or mathematics.
+On this webpage, I have collected my notes on physics and mathematics for my potential supervisors and friends.
+If you want to discuss some parts of physics, write me on the email or Telegram.
