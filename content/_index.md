@@ -90,7 +90,7 @@ sections:
 
         
         
-        <ul><li><a  href="https://nbviewer.org/github/YuriHolubeu/Physics-Notes/blob/main/basic%20physics/☕%20continuum%20mechanics.pdf" target="_blank">continuum mechanics</a></li></ul>
+        <ul><li><a  href="https://nbviewer.org/github/YuriHolubeu/Physics-Notes/blob/main/basic%20physics/❀ %20continuum%20mechanics.pdf" target="_blank">continuum mechanics</a></li></ul>
 
         
         </div>

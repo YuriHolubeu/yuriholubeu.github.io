@@ -57,7 +57,7 @@ education:
   - area: MPhys  
     year: Nov 2022-Jan 2025 (planned)
     institution: KU Leuven Institute   
-  - area: MPhys 
+  - area: MSc 
     year: Sep 2021-Apr 2022
     institution: Moscow Institute of Physics and Technology, DGAP 
   - area: BSc Physics 
