@@ -90,7 +90,7 @@ sections:
 
         
         
-        <ul><li><a  href="https://nbviewer.org/github/YuriHolubeu/Physics-Notes/blob/main/basic%20physics/❀ %20continuum%20mechanics.pdf" target="_blank">continuum mechanics</a></li></ul>
+        <ul><li><a  href="https://nbviewer.org/github/YuriHolubeu/Physics-Notes/blob/main/basic%20physics/❀%20continuum%20mechanics.pdf" target="_blank">continuum mechanics</a></li></ul>
 
         
         </div>
@@ -175,7 +175,7 @@ sections:
         <ul><li><a  href="https://nbviewer.org/github/YuriHolubeu/Mathematics-Notes/blob/main/■ special functions.pdf" target="_blank">special functions</a></li></ul>
 
         
-        <ul><li><a  href="https://nbviewer.org/github/YuriHolubeu/Mathematics-Notes/blob/main/☐ algebra.pdf" target="_blank">algebra</a></li></ul>
+        <ul><li><a  href="https://nbviewer.org/github/YuriHolubeu/Mathematics-Notes/blob/main/☐  algebra.pdf" target="_blank">algebra</a></li></ul>
         
         
         <ul><li><a  href="https://nbviewer.org/github/YuriHolubeu/Mathematics-Notes/blob/main/☐ linear algebra.pdf" target="_blank">linear algebra</a></li></ul>

@@ -17,7 +17,8 @@ marketing:
     description: 'Resume of Yury Holubeu.'
     twitter: 'GetResearchDev'
   analytics:
-    google_analytics: ''
+    google_analytics: 'G-SWVB4S0NCB'
+    google_tag_manager: 'G-SWVB4S0NCB'
     baidu_tongji: ''
     plausible: ''
     fathom: ''
