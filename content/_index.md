@@ -54,7 +54,7 @@ sections:
 
 
         <p style="line-height: 1;"><font size="3"> 
-        For many years I have been studying physics and mathematics using the approach I describe <a  href="https://nbviewer.org/github/YuriHolubeu/Physics-Notes/blob/main/decription of my notes.pdf" target="_blank">here</a>. Following such a philosophy of doing science, I have created notes below. Now they are an unfinished demo version, which illustrates how they will look after some years of working on them. In this section, there are notes on the most important parts of physics.
+        For many years I have been studying physics and mathematics using the approach I describe <a  href="https://nbviewer.org/github/YuriHolubeu/Physics-Notes/blob/main/learning physics.pdf" target="_blank">here</a>. Following such a philosophy of doing science, I have created notes below. Now they are an unfinished demo version, which illustrates how they will look after some years of working on them. In this section, there are notes on the most important parts of physics.
         
         </font></p>
 
