@@ -287,7 +287,7 @@ sections:
 
 
         <p style="line-height: 1;"><font size="3"> 
-        I had several research projects, which didn't lead to the creation of articles, but I understood many methods and collected them in the notes below. Maybe I will return to some of these projects one day.
+        I had several research projects, which didn't lead to the creation of articles, but I understood many methods and from time to time I think about some models again.
         </font></p>
 
 
@@ -298,27 +298,32 @@ sections:
 
 
 
-        <ul><li><a  href="https://nbviewer.org/github/YuriHolubeu/Physics-Notes/blob/main/some%20projects/◊%20gravitational%20lensing.pdf" target="_blank">gravitational lensing</a></li></ul>
-
-
-
-        <ul><li><a  href="https://nbviewer.org/github/YuriHolubeu/Physics-Notes/blob/main/some%20projects/◊%20gravitational%20waves.pdf" target="_blank">gravitational waves</a></li></ul>
+        <ul><li><a  href="https://nbviewer.org/github/YuriHolubeu/Physics-Notes/blob/main/some%20projects/◊%20gravitational%20lensing.pdf" target="_blank">gravitational lensing</a></li></ul> 
+        
+        
+        
+        
+        
+        <ul style="margin-bottom: 40px;"><li><a  href="https://nbviewer.org/github/YuriHolubeu/Physics-Notes/blob/main/some%20projects/◊%20gravitational%20waves.pdf" target="_blank">gravitational waves</a></li></ul>
         
 
 
 
-        <ul><li><a  href="https://nbviewer.org/github/YuriHolubeu/Physics-Notes/blob/main/some%20projects/◘%20waveguide%20QED.pdf" target="_blank">waveguide QED</a></li></ul>
+        <ul style="margin-bottom: 40px;"><li><a  href="https://nbviewer.org/github/YuriHolubeu/Physics-Notes/blob/main/some%20projects/◘%20waveguide%20QED.pdf" target="_blank">waveguide QED</a></li></ul>
         
 
 
 
         <ul><li><a  href="https://nbviewer.org/github/YuriHolubeu/Physics-Notes/blob/main/some%20projects/☐%20electronic%20properties%20of%201D%20and%202D%20materials.pdf" target="_blank">electronic properties of 1D and 2D materials</a></li></ul>
-        
-        
-        
+
+
+
+
+
+        <ul style="margin-bottom: 40px;"><li><a  href="https://nbviewer.org/github/YuriHolubeu/Physics-Notes/blob/main/some%20projects/☐ quasi-1D layered materials.pdf" target="_blank">quasi-1D layered materials</a></li></ul>
+
 
         <ul><li><a  href="https://nbviewer.org/github/YuriHolubeu/Physics-Notes/blob/main/some%20projects/❁%20duality%20in%20special%20field%20theories.pdf" target="_blank">duality in special field theories</a></li></ul></li></ul>
-
 
         </div>
 
