@@ -36,7 +36,7 @@ sections:
 
 #
 #
-#   !!!!!! не забывай, что nbviewer.org обновляет файлы по одному дню, ну или явно нужно указывать номер коммита
+#   !!!!!!  nbviewer.org обновляет большие файлы по одному дню, ну или явно нужно указывать номер коммита (что лучше не делать, ибо потом менять при каждом обновлени придется)
 #
 #
 #
@@ -186,7 +186,7 @@ sections:
 
 
 
-        <ul><li><a  href="https://nbviewer.org/github/YuriHolubeu/Mathematics-Notes/blob/main/◘ differential geometry.pdf" target="_blank"> differential geometry</a></li></ul>
+        <ul><li><a  href="https://nbviewer.org/github/YuriHolubeu/Mathematics-Notes/blob/main/◘ differential geometry.pdf" target="_blank">differential geometry</a></li></ul>
 
 
 
@@ -316,11 +316,21 @@ sections:
 
         <ul><li><a  href="https://nbviewer.org/github/YuriHolubeu/Physics-Notes/blob/main/some%20projects/☐%20electronic%20properties%20of%201D%20and%202D%20materials.pdf" target="_blank">electronic properties of 1D and 2D materials</a></li></ul>
 
+        <ul style="margin-bottom: 40px;"><li><a  href="https://nbviewer.org/github/YuriHolubeu/Physics-Notes/blob/main/some%20projects/☐ Green's function special methods.pdf" target="_blank">Green's function special methods</a></li></ul>
+
+
+        <ul style="margin-bottom: 40px;"><li><a  href="https://nbviewer.org/github/YuriHolubeu/Physics-Notes/blob/main/some%20projects/☐ Josephson contacts.pdf" target="_blank">Josephson contacts</a></li></ul>
+
+
+        <ul style="margin-bottom: 40px;"><li><a  href="https://nbviewer.org/github/YuriHolubeu/Physics-Notes/blob/main/some%20projects/☐ Majorana fermions in matter.pdf" target="_blank">Majorana fermions in matter</a></li></ul>
+
+
+        <ul style="margin-bottom: 40px;"><li><a  href="https://nbviewer.org/github/YuriHolubeu/Physics-Notes/blob/main/some%20projects/☐ Andreev reflection, states.pdf" target="_blank">Andreev reflection, states</a></li></ul>
+          
+        <ul style="margin-bottom: 40px;"><li><a  href="https://nbviewer.org/github/YuriHolubeu/Physics-Notes/blob/main/some%20projects/☐ mesoscopic rings.pdf" target="_blank">mesoscopic rings</a></li></ul>
 
 
 
-
-        <ul style="margin-bottom: 40px;"><li><a  href="https://nbviewer.org/github/YuriHolubeu/Physics-Notes/blob/main/some%20projects/☐ quasi-1D layered materials.pdf" target="_blank">quasi-1D layered materials</a></li></ul>
 
 
         <ul><li><a  href="https://nbviewer.org/github/YuriHolubeu/Physics-Notes/blob/main/some%20projects/❁%20duality%20in%20special%20field%20theories.pdf" target="_blank">duality in special field theories</a></li></ul></li></ul>
