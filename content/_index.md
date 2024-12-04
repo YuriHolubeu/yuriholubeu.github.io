@@ -43,6 +43,20 @@ sections:
 
           
   - block: markdown
+    content:
+      title: 
+      subtitle: ''
+
+      text: |- 
+
+        <p style="line-height: 1;"><font size="3"> 
+        For many years I have been studying physics and mathematics using the a philosophy of doing science which I describe <a  href="https://nbviewer.org/github/YuriHolubeu/Notes/blob/main/learning physics.pdf" target="_blank">here</a>. In a nutshell, I believe that by structuring the information in digital notes and separating the key methods and properties into a dedicated section, we can achieve a deeper understanding. The notes below are an unfinished demo version, which demonstrates how they will look after several years of development. Nevertheless, they contain many methods and many problems for practice with solutions. 
+        </font></p>
+  
+  
+  
+  
+  - block: markdown
     id: notes
     content:
       title: <h1>Notes on Basic Physics </h1>
@@ -50,14 +64,10 @@ sections:
 
       text: |-    
 
-
-
-
         <p style="line-height: 1;"><font size="3"> 
-        For many years I have been studying physics and mathematics using the approach I describe <a  href="https://nbviewer.org/github/YuriHolubeu/Notes/blob/main/learning physics.pdf" target="_blank">here</a>. Following such a philosophy of doing science, I have created notes below. Now they are an unfinished demo version, which illustrates how they will look after some years of working on them. In this section, there are notes on the most important parts of physics.
-        
-        </font></p>
+        In this section, there are notes on the most important parts of physics.
 
+        </font></p>
 
         <div style="line-height: 0.4;"> 
 
@@ -287,30 +297,11 @@ sections:
 
 
         <p style="line-height: 1;"><font size="3"> 
-        I had several research projects, which didn't lead to the creation of articles, but I understood many methods and from time to time I think about some models again.
+        I had several research projects, which didn't lead to the creation of articles, but I tried my best and made notes on each. One of the projects below is currently my main project.
         </font></p>
-
-
-
-
 
         <div style="line-height: 0.4;"> 
 
-
-
-        <ul><li><a  href="https://nbviewer.org/github/YuriHolubeu/Notes/blob/main/some%20projects/◊%20gravitational%20lensing.pdf" target="_blank">gravitational lensing</a></li></ul> 
-        
-        
-        
-        
-        
-        <ul style="margin-bottom: 40px;"><li><a  href="https://nbviewer.org/github/YuriHolubeu/Notes/blob/main/some%20projects/◊%20gravitational%20waves.pdf" target="_blank">gravitational waves</a></li></ul>
-        
-
-
-
-        <ul style="margin-bottom: 40px;"><li><a  href="https://nbviewer.org/github/YuriHolubeu/Notes/blob/main/some%20projects/◘%20waveguide%20QED.pdf" target="_blank">waveguide QED</a></li></ul>
-        
 
 
         <ul><li><a  href="https://nbviewer.org/github/YuriHolubeu/Notes/blob/main/some%20projects/☐ Green's function special methods.pdf" target="_blank">Green's function special methods</a></li></ul>
@@ -333,6 +324,21 @@ sections:
 
 
 
+
+
+        <ul style="margin-bottom: 40px;"><li><a  href="https://nbviewer.org/github/YuriHolubeu/Notes/blob/main/some%20projects/◘%20waveguide%20QED.pdf" target="_blank">waveguide QED</a></li></ul>
+        
+
+
+
+        <ul><li><a  href="https://nbviewer.org/github/YuriHolubeu/Notes/blob/main/some%20projects/◊%20gravitational%20lensing.pdf" target="_blank">gravitational lensing</a></li></ul> 
+        
+        
+        
+        
+        
+        <ul style="margin-bottom: 40px;"><li><a  href="https://nbviewer.org/github/YuriHolubeu/Notes/blob/main/some%20projects/◊%20gravitational%20waves.pdf" target="_blank">gravitational waves</a></li></ul>
+        
 
 
         <ul><li><a  href="https://nbviewer.org/github/YuriHolubeu/Notes/blob/main/some%20projects/❁%20duality%20in%20special%20field%20theories.pdf" target="_blank">duality in special field theories</a></li></ul></li></ul>
