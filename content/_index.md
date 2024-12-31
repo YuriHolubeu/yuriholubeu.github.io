@@ -41,20 +41,44 @@ sections:
 #
 #
 
-          
+  
+  
   - block: markdown
+    id: writing
     content:
-      title: 
+      title: <h1>Writing </h1>
       subtitle: ''
 
-      text: |- 
+      text: |-    
 
         <p style="line-height: 1;"><font size="3"> 
-        For many years I have been studying physics and mathematics using the a philosophy of doing science which I describe <a  href="https://nbviewer.org/github/YuriHolubeu/Notes/blob/main/learning physics.pdf" target="_blank">here</a>. In a nutshell, I believe that by structuring the information in digital notes and separating the key methods and properties into a dedicated section, we can achieve a deeper understanding. The notes below are an unfinished demo version, which demonstrates how they will look after several years of development. Nevertheless, they contain many methods and many problems for practice with solutions. 
+        In this section, there are my main papers.
+
         </font></p>
-  
-  
-  
+
+        <div style="line-height: 0.4;"> 
+
+
+        <ul><li><a  href="https://nbviewer.org/github/YuriHolubeu/Notes/blob/main/some%20projects/masters_thesis_GF-MTJJ.pdf" target="_blank">Green's Function for Multiterminal Junctions (Master's thesis)</a></li></ul>
+        
+        
+        <ul><li><a  href="https://nbviewer.org/github/YuriHolubeu/Notes/blob/main/some%20projects/bach_thesis_lensing.pdf" target="_blank">Graviational Lensing of Binary Systems (Bachelor's thesis)</a></li></ul>
+
+      
+        </div>
+
+
+
+
+
+
+    design:
+      columns: '1'
+
+
+
+
+
   
   - block: markdown
     id: notes
@@ -65,7 +89,11 @@ sections:
       text: |-    
 
         <p style="line-height: 1;"><font size="3"> 
-        In this section, there are notes on the most important parts of physics.
+        For many years I have been studying physics and mathematics using the a philosophy of doing science which I describe <a  href="https://nbviewer.org/github/YuriHolubeu/Notes/blob/main/learning physics.pdf" target="_blank">here</a>. In a nutshell, I believe that by structuring the information in digital notes and separating the key methods and properties into a dedicated section, we can achieve a deeper understanding. The notes below are an unfinished demo version, which demonstrates how they will look after several years of development. Nevertheless, they contain many methods and many problems for practice with solutions. 
+        </font></p>
+
+        <p style="line-height: 1;"><font size="3"> 
+        In this section, there are notes on the most important parts of physics. They are in the process of creation.
 
         </font></p>
 
@@ -307,22 +335,16 @@ sections:
         <ul><li><a  href="https://nbviewer.org/github/YuriHolubeu/Notes/blob/main/some%20projects/☐ Green's function special methods.pdf" target="_blank">Green's function special methods</a></li></ul>
 
 
-        <ul><li><a  href="https://nbviewer.org/github/YuriHolubeu/Notes/blob/main/some%20projects/☐ Josephson contacts.pdf" target="_blank">Josephson contacts</a></li></ul>
+        <ul><li><a  href="https://nbviewer.org/github/YuriHolubeu/Notes/blob/main/some%20projects/☐ superconductive contacts.pdf" target="_blank">Superconductive junctions</a></li></ul>
 
 
         <ul><li><a  href="https://nbviewer.org/github/YuriHolubeu/Notes/blob/main/some%20projects/☐ Majorana fermions in matter.pdf" target="_blank">Majorana fermions in matter</a></li></ul>
 
 
-        <ul><li><a  href="https://nbviewer.org/github/YuriHolubeu/Notes/blob/main/some%20projects/☐ Andreev reflection, states.pdf" target="_blank">Andreev reflection, states</a></li></ul>
+        <ul style="margin-bottom: 40px;"><li><a  href="https://nbviewer.org/github/YuriHolubeu/Notes/blob/main/some%20projects/☐ Andreev reflection, states.pdf" target="_blank">Andreev reflection, states</a></li></ul>
 
 
-        <ul><li><a  href="https://nbviewer.org/github/YuriHolubeu/Notes/blob/main/some%20projects/☐%20electronic%20properties%20of%201D%20and%202D%20materials.pdf" target="_blank">electronic properties of 1D and 2D materials</a></li></ul>
-
-
-          
-        <ul style="margin-bottom: 40px;"><li><a  href="https://nbviewer.org/github/YuriHolubeu/Notes/blob/main/some%20projects/☐ mesoscopic rings.pdf" target="_blank">mesoscopic rings</a></li></ul>
-
-
+        <ul style="margin-bottom: 40px;"><li><a  href="https://nbviewer.org/github/YuriHolubeu/Notes/blob/main/some%20projects/☐%20electronic%20properties%20of%201D%20and%202D%20materials.pdf" target="_blank">electronic properties of 1D and 2D materials</a></li></ul>
 
 
 
