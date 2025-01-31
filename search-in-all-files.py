@@ -10,7 +10,7 @@ import os
 import fnmatch
 
 
-search_text = "e builder that empow"
+search_text = "v3"
 
 def search_in_file(file_path, search_text, search_output_lines):
     """Search for search_text in the specified file and collect lines containing the search_text."""
