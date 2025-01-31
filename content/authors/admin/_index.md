@@ -56,7 +56,7 @@ interests:
 education:
   - area: MPhys  
     year: Nov 2022-Jan 2025 (planned)
-    institution: KU Leuven Institute   
+    institution: KU Leuven    
   - area: MSc 
     year: Sep 2021-Apr 2022
     institution: Moscow Institute of Physics and Technology, DGAP 

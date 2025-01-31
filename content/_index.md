@@ -118,7 +118,8 @@ sections:
         <ul><li><a  href="https://nbviewer.org/github/YuriHolubeu/Notes/blob/main/basic%20physics/☐%20%20statistical%20physics.pdf" target="_blank">statistical physics</a></li></ul>
 
 
-        <ul><li><a  href="https://nbviewer.org/github/YuriHolubeu/Notes/blob/main/basic%20physics/☐ condensed matter.pdf" target="_blank">condensed matter</a></li></ul>
+        <ul><li><a  href="https://nbviewer.org/github/YuriHolubeu/Notes/blob/main/some%20projects/☐ condensed matter p1.pdf" target="_blank">condensed matter part 1</a>, &nbsp; <a  href="https://nbviewer.org/github/YuriHolubeu/Notes/blob/main/some%20projects/☐ condensed matter p2.pdf" target="_blank">part 2</a> </li></ul>
+
 
 
         <ul><li><a  href="https://nbviewer.org/github/YuriHolubeu/Notes/blob/main/basic%20physics/☼%20kinetics.pdf" target="_blank">kinetics</a></li></ul>
@@ -314,16 +315,14 @@ sections:
 
 
 
-
           
   - block: markdown
     id: researchnotes
     content:
       title: <h1>Notes on Some Reserach Projects in Physics</h1>
       subtitle: ''
-      text: |- 
-
-
+      text: |-
+    
         <p style="line-height: 1;"><font size="3"> 
         I had several research projects, which didn't lead to the creation of articles, but I tried my best and made notes on each. One of the projects below is currently my main project.
         </font></p>
@@ -335,7 +334,7 @@ sections:
         <ul><li><a  href="https://nbviewer.org/github/YuriHolubeu/Notes/blob/main/some%20projects/☐ Green's function special methods.pdf" target="_blank">Green's function special methods</a></li></ul>
 
 
-        <ul><li><a  href="https://nbviewer.org/github/YuriHolubeu/Notes/blob/main/some%20projects/☐ superconductive contacts.pdf" target="_blank">Superconductive junctions</a></li></ul>
+        <ul><li><a  href="https://nbviewer.org/github/YuriHolubeu/Notes/blob/main/some%20projects/☐ sc junctions p1.pdf" target="_blank">superconductive junctions part 1</a>, &nbsp; <a  href="https://nbviewer.org/github/YuriHolubeu/Notes/blob/main/some%20projects/☐ sc junctions p2.pdf" target="_blank">part 2</a> </li></ul>
 
 
         <ul><li><a  href="https://nbviewer.org/github/YuriHolubeu/Notes/blob/main/some%20projects/☐ Majorana fermions in matter.pdf" target="_blank">Majorana fermions in matter</a></li></ul>
@@ -369,9 +368,23 @@ sections:
 
 
 
+  - block: markdown
+    id: diplomas
+    content:
+      title: <h1>Diplomas</h1>
+      subtitle: ''
+      text: |-
+
+        {{< lightbox img1="/media/bd.jpg" caption1="Bachelor's Diploma from MIPT" img2="/media/md.jpg" caption2="Master's Diploma from KU Leuven" >}}
 
 
 
+
+
+
+
+
+        
 
 
 

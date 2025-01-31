@@ -1,0 +1,80 @@
+<style>
+  .lightbox-container {
+    display: flex;
+    gap: 10px;
+  }
+  .lightbox-item {
+    text-align: center;
+    width: 45%;
+  }
+  .lightbox-img {
+    cursor: pointer;
+    width: 100%;
+    transition: 0.3s;
+  }
+  .lightbox-caption {
+    font-size: 14px;
+    color: #777;
+    margin-top: 5px;
+  }
+  .lightbox-overlay {
+    display: none;
+    position: fixed;
+    top: 0; left: 0; width: 100%; height: 100%;
+    background: rgba(0, 0, 0, 0.8);
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    z-index: 1000;
+    text-align: center;
+  }
+  .lightbox-overlay img {
+    max-width: 90%;
+    max-height: 90%;
+  }
+  .lightbox-overlay .caption {
+    color: white;
+    margin-top: 10px;
+    font-size: 16px;
+  }
+</style>
+
+<div class="lightbox-container">
+  <div class="lightbox-item">
+    <img src="{{ .Get "img1" }}" class="lightbox-img" onclick="openLightbox(this, '{{ .Get "caption1" }}')">
+    <div class="lightbox-caption">{{ .Get "caption1" }}</div>
+  </div>
+  <div class="lightbox-item">
+    <img src="{{ .Get "img2" }}" class="lightbox-img" onclick="openLightbox(this, '{{ .Get "caption2" }}')">
+    <div class="lightbox-caption">{{ .Get "caption2" }}</div>
+  </div>
+</div>
+
+<div id="lightbox" class="lightbox-overlay" onclick="closeLightbox()">
+  <img id="lightbox-img">
+  <div class="caption" id="lightbox-caption"></div>
+</div>
+
+<script>
+  function openLightbox(img, caption) {
+    document.getElementById("lightbox-img").src = img.src;
+    document.getElementById("lightbox-caption").innerText = caption;
+    document.getElementById("lightbox").style.display = "flex";
+    
+    // Скрываем меню
+    let menu = document.querySelector("nav");
+    if (menu) {
+      menu.style.display = "none";
+    }
+  }
+
+  function closeLightbox() {
+    document.getElementById("lightbox").style.display = "none";
+
+    // Показываем меню обратно
+    let menu = document.querySelector("nav");
+    if (menu) {
+      menu.style.display = "";
+    }
+  }
+</script>
