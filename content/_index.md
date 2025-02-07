@@ -375,7 +375,7 @@ sections:
       subtitle: ''
       text: |-
 
-        {{< lightbox img1="/media/bd.jpg" caption1="Bachelor's Diploma from MIPT" img2="/media/md.jpg" caption2="Master's Diploma from KU Leuven" >}}
+        {{< lightbox img1="/media/bd.jpg" caption1="Bachelor's Diploma from MIPT" img2="/media/md.jpg" caption2="Master's Diploma from KU Leuven ⠀⠀⠀⠀(with distinction)" >}}
 
 
 
