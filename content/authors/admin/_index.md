@@ -49,19 +49,19 @@ profiles:
 #    url: https://orcid.org/
 
 interests:
+  - Statistical Physics
   - Condensed Matter
   - Quantum Field Theory
-  - Statistical Physics
 
 education:
   - area: MPhys  
-    year: Nov 2022-Jan 2025 (planned)
+    year: Nov 2022-Jan 2025 
     institution: KU Leuven    
   - area: MSc 
     year: Sep 2021-Apr 2022
-    institution: Moscow Institute of Physics and Technology, DGAP 
-  - area: BSc Physics 
-    institution: Moscow Institute of Physics and Technology, DGAP
+    institution: MIPT, DGAP 
+  - area: BSc  
+    institution: MIPT, DGAP
     year: 2016-2021
 
 ---
@@ -70,9 +70,8 @@ education:
 
 
 
-Currently, I'm a student of Masters of Physics at KU Leuven.
+Currently, I'm a researcher at Institute of Stephen Joseph in Ljubljana.
 Most of my days I keep thinking about some research-related topics or mastering typical methods of physics or mathematics.
 On this webpage, I have collected the notes that I made while passing courses at KU Leuven, MIPT, and while conducting research.
-Approximately all the information from them can be found in cited book, articles and on the internet.
 I work on some of them daily and update them here once a month. 
 If you want to discuss some parts of physics, send me an e-mail or contact me on Telegram.

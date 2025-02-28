@@ -330,6 +330,9 @@ sections:
         <div style="line-height: 0.4;"> 
 
 
+        <ul style="margin-bottom: 40px;"><li><a  href="https://nbviewer.org/github/YuriHolubeu/Notes/blob/main/some%20projects/☐ spin models with dissipation p1.pdf" target="_blank">spin models with dissipation part 1</a>, &nbsp; <a  href="https://nbviewer.org/github/YuriHolubeu/Notes/blob/main/some%20projects/☐ spin models with dissipation p2.pdf" target="_blank">part 2</a> </li></ul>
+
+
 
         <ul><li><a  href="https://nbviewer.org/github/YuriHolubeu/Notes/blob/main/some%20projects/☐ Green's function special methods.pdf" target="_blank">Green's function special methods</a></li></ul>
 
@@ -338,9 +341,6 @@ sections:
 
 
         <ul><li><a  href="https://nbviewer.org/github/YuriHolubeu/Notes/blob/main/some%20projects/☐ Majorana fermions in matter.pdf" target="_blank">Majorana fermions in matter</a></li></ul>
-
-
-        <ul style="margin-bottom: 40px;"><li><a  href="https://nbviewer.org/github/YuriHolubeu/Notes/blob/main/some%20projects/☐ Andreev reflection, states.pdf" target="_blank">Andreev reflection, states</a></li></ul>
 
 
         <ul style="margin-bottom: 40px;"><li><a  href="https://nbviewer.org/github/YuriHolubeu/Notes/blob/main/some%20projects/☐%20electronic%20properties%20of%201D%20and%202D%20materials.pdf" target="_blank">electronic properties of 1D and 2D materials</a></li></ul>
