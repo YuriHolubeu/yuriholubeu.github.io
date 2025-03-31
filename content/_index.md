@@ -59,10 +59,10 @@ sections:
         <div style="line-height: 0.4;"> 
 
 
-        <ul><li><a  href="https://nbviewer.org/github/YuriHolubeu/Notes/blob/main/some%20projects/masters_thesis_GF-MTJJ.pdf" target="_blank">Green's Function for Multiterminal Josephson Junctions (Master's thesis)</a></li></ul>
+        <ul><li>Master's thesis:  <a href="https://nbviewer.org/github/YuriHolubeu/Notes/blob/main/some%20projects/masters_thesis_GF-MTJJ.pdf" target="_blank">Green's Function for Multiterminal Josephson </a> </li> <a href="https://nbviewer.org/github/YuriHolubeu/Notes/blob/main/some%20projects/masters_thesis_GF-MTJJ.pdf" target="_blank"> Junctions </a>  </ul> 
         
         
-        <ul><li><a  href="https://nbviewer.org/github/YuriHolubeu/Notes/blob/main/some%20projects/bach_thesis_lensing.pdf" target="_blank">Graviational Lensing of Binary Systems (Bachelor's thesis)</a></li></ul>
+        <ul><li>Bachelor's thesis: <a  href="https://nbviewer.org/github/YuriHolubeu/Notes/blob/main/some%20projects/bach_thesis_lensing.pdf" target="_blank">Graviational Lensing of Binary Systems </a></li> </ul>
 
       
         </div>
