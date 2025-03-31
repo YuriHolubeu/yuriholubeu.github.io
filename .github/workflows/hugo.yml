@@ -57,7 +57,7 @@ jobs:
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/"
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v2  # Версия v2 актуальна для этого шага
+        uses: actions/upload-pages-artifact@v3  # ругалось на v2, изменил на 3ю версию
         with:
           path: ./public
 
