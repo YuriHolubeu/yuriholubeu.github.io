@@ -36,7 +36,7 @@ sections:
 
 #
 #
-#   !!!!!!  nbviewer.org обновляет большие файлы по одному дню, ну или явно нужно указывать номер коммита (что лучше не делать, ибо потом менять при каждом обновлени придется)
+#   !!!!!!  nbviewer.org обновляет большие файлы по одному дню (альтернатива -  вписывать в код коммит, что неудобно, ибо потом придется менять их)
 #
 #
 #
@@ -59,7 +59,7 @@ sections:
         <div style="line-height: 0.4;"> 
 
 
-        <ul><li><a  href="https://nbviewer.org/github/YuriHolubeu/Notes/blob/main/some%20projects/masters_thesis_GF-MTJJ.pdf" target="_blank">Green's Function for Multiterminal Junctions (Master's thesis)</a></li></ul>
+        <ul><li><a  href="https://nbviewer.org/github/YuriHolubeu/Notes/blob/main/some%20projects/masters_thesis_GF-MTJJ.pdf" target="_blank">Green's Function for Multiterminal Josephson Junctions (Master's thesis)</a></li></ul>
         
         
         <ul><li><a  href="https://nbviewer.org/github/YuriHolubeu/Notes/blob/main/some%20projects/bach_thesis_lensing.pdf" target="_blank">Graviational Lensing of Binary Systems (Bachelor's thesis)</a></li></ul>
@@ -72,12 +72,9 @@ sections:
 
 
 
+
     design:
       columns: '1'
-
-
-
-
 
   
   - block: markdown
@@ -89,12 +86,12 @@ sections:
       text: |-    
 
         <p style="line-height: 1;"><font size="3"> 
-        For many years I have been studying physics and mathematics using the a philosophy of doing science which I describe <a  href="https://nbviewer.org/github/YuriHolubeu/Notes/blob/main/learning physics.pdf" target="_blank">here</a>. In a nutshell, I believe that by structuring the information in digital notes and separating the key methods and properties into a dedicated section, we can achieve a deeper understanding. The notes below are an unfinished demo version, which demonstrates how they will look after several years of development. Nevertheless, they contain many methods and many problems for practice with solutions. 
+        For many years I have been studying physics and mathematics using the a philosophy of doing science which I describe <a  href="https://nbviewer.org/github/YuriHolubeu/Notes/blob/main/learning physics.pdf" target="_blank">here</a>. In a nutshell, I believe that by structuring information in digital notes and separating the key methods and properties into a dedicated section, one can achieve a deeper understanding. The notes below are an unfinished demo version, which demonstrates how they will look after several years of development. Nevertheless, they contain many methods and many problems for practice with solutions. 
         </font></p>
 
         <p style="line-height: 1;"><font size="3"> 
-        In this section, there are notes on the most important parts of physics. They are in the process of creation.
-
+        In this section, there are notes on the most important parts of physics. 
+        
         </font></p>
 
         <div style="line-height: 0.4;"> 
@@ -118,7 +115,7 @@ sections:
         <ul><li><a  href="https://nbviewer.org/github/YuriHolubeu/Notes/blob/main/basic%20physics/☐%20%20statistical%20physics.pdf" target="_blank">statistical physics</a></li></ul>
 
 
-        <ul><li><a  href="https://nbviewer.org/github/YuriHolubeu/Notes/blob/main/some%20projects/☐ condensed matter p1.pdf" target="_blank">condensed matter part 1</a>, &nbsp; <a  href="https://nbviewer.org/github/YuriHolubeu/Notes/blob/main/some%20projects/☐ condensed matter p2.pdf" target="_blank">part 2</a> </li></ul>
+        <ul><li><a  href="https://nbviewer.org/github/YuriHolubeu/Notes/blob/main/basic%20physics/☐ condensed matter p1.pdf" target="_blank">condensed matter part 1</a>, &nbsp; <a  href="https://nbviewer.org/github/YuriHolubeu/Notes/blob/main/basic%20physics/☐ condensed matter p2.pdf" target="_blank">part 2</a> </li></ul>
 
 
 
@@ -139,34 +136,15 @@ sections:
 
 
 
+
+
+
+
+
+
+
     design:
       columns: '1'
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
           
   - block: markdown
     id: othernotes
@@ -284,25 +262,6 @@ sections:
         </table>
         
         
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
