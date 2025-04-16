@@ -293,17 +293,10 @@ sections:
 
 
 
-        <ul><li><a  href="https://nbviewer.org/github/YuriHolubeu/Notes/blob/main/some%20projects/☐ Green's function special methods.pdf" target="_blank">Green's function special methods</a></li></ul>
+        <ul><li><a  href="https://nbviewer.org/github/YuriHolubeu/Notes/blob/main/some%20projects/☐ Green's function special methods.pdf" target="_blank">Green's function special methods for superconductivity</a></li></ul>
 
 
         <ul><li><a  href="https://nbviewer.org/github/YuriHolubeu/Notes/blob/main/some%20projects/☐ sc junctions p1.pdf" target="_blank">superconductive junctions part 1</a>, &nbsp; <a  href="https://nbviewer.org/github/YuriHolubeu/Notes/blob/main/some%20projects/☐ sc junctions p2.pdf" target="_blank">part 2</a> </li></ul>
-
-
-        <ul><li><a  href="https://nbviewer.org/github/YuriHolubeu/Notes/blob/main/some%20projects/☐ Majorana fermions in matter.pdf" target="_blank">Majorana fermions in matter</a></li></ul>
-
-
-        <ul style="margin-bottom: 40px;"><li><a  href="https://nbviewer.org/github/YuriHolubeu/Notes/blob/main/some%20projects/☐%20electronic%20properties%20of%201D%20and%202D%20materials.pdf" target="_blank">electronic properties of 1D and 2D materials</a></li></ul>
-
 
 
         <ul style="margin-bottom: 40px;"><li><a  href="https://nbviewer.org/github/YuriHolubeu/Notes/blob/main/some%20projects/◘%20waveguide%20QED.pdf" target="_blank">waveguide QED</a></li></ul>
