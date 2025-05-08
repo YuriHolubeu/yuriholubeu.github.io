@@ -44,9 +44,9 @@ sections:
   
   
   - block: markdown
-    id: writing
+    id: Research
     content:
-      title: <h1>Writing </h1>
+      title: <h1>Research </h1>
       subtitle: ''
 
       text: |-    
@@ -117,14 +117,12 @@ sections:
 
         <ul><li><a  href="https://nbviewer.org/github/YuriHolubeu/Notes/blob/main/basic%20physics/☐ condensed matter p1.pdf" target="_blank">condensed matter part 1</a>, &nbsp; <a  href="https://nbviewer.org/github/YuriHolubeu/Notes/blob/main/basic%20physics/☐ condensed matter p2.pdf" target="_blank">part 2</a> </li></ul>
 
-
-
-        <ul><li><a  href="https://nbviewer.org/github/YuriHolubeu/Notes/blob/main/basic%20physics/☼%20kinetics.pdf" target="_blank">kinetics</a></li></ul>
-        
         
         <ul><li><a  href="https://nbviewer.org/github/YuriHolubeu/Notes/blob/main/basic%20physics/♣%20%20electrodynamics.pdf" target="_blank">electrodynamics</a></li></ul>
 
-        
+
+        <ul><li><a  href="https://nbviewer.org/github/YuriHolubeu/Notes/blob/main/basic%20physics/☼%20kinetics.pdf" target="_blank">kinetics</a></li></ul>
+                
         
         <ul><li><a  href="https://nbviewer.org/github/YuriHolubeu/Notes/blob/main/basic%20physics/❀%20continuum%20mechanics.pdf" target="_blank">continuum mechanics</a></li></ul>
 
@@ -278,7 +276,7 @@ sections:
   - block: markdown
     id: researchnotes
     content:
-      title: <h1>Notes on Some Reserach Projects in Physics</h1>
+      title: <h1>Notes on Some Research Projects in Physics</h1>
       subtitle: ''
       text: |-
     
