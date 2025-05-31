@@ -211,7 +211,6 @@
     ],
     "ids": [
       "Research",
-      "Reserach",
       "about-me",
       "diplomas",
       "hide-button",
@@ -230,8 +229,7 @@
       "show-button",
       "site-header",
       "sun",
-      "top",
-      "writing"
+      "top"
     ]
   }
 }

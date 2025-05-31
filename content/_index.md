@@ -291,7 +291,7 @@ sections:
 
 
 
-        <ul><li><a  href="https://nbviewer.org/github/YuriHolubeu/Notes/blob/main/some%20projects/☐ Green's function special methods.pdf" target="_blank">Green's function special methods for superconductivity</a></li></ul>
+        <ul><li><a  href="https://nbviewer.org/github/YuriHolubeu/Notes/blob/main/some%20projects/☐ Green's function special methods.pdf" target="_blank">Green's function special methods for condensed matter</a></li></ul>
 
 
         <ul><li><a  href="https://nbviewer.org/github/YuriHolubeu/Notes/blob/main/some%20projects/☐ sc junctions p1.pdf" target="_blank">superconductive junctions part 1</a>, &nbsp; <a  href="https://nbviewer.org/github/YuriHolubeu/Notes/blob/main/some%20projects/☐ sc junctions p2.pdf" target="_blank">part 2</a> </li></ul>
