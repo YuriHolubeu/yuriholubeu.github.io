@@ -115,7 +115,7 @@ sections:
         <ul><li><a  href="https://nbviewer.org/github/YuriHolubeu/Notes/blob/main/basic%20physics/☐%20%20statistical%20physics.pdf" target="_blank">statistical physics</a></li></ul>
 
 
-        <ul><li><a  href="https://nbviewer.org/github/YuriHolubeu/Notes/blob/main/basic%20physics/☐ condensed matter p1.pdf" target="_blank">condensed matter part 1</a>, &nbsp; <a  href="https://nbviewer.org/github/YuriHolubeu/Notes/blob/main/basic%20physics/☐ condensed matter p2.pdf" target="_blank">part 2</a> </li></ul>
+        <ul><li><a  href="https://nbviewer.org/github/YuriHolubeu/Notes/blob/main/basic%20physics/☐ condensed matter.pdf" target="_blank">condensed matter</a></li></ul>
 
         
         <ul><li><a  href="https://nbviewer.org/github/YuriHolubeu/Notes/blob/main/basic%20physics/♣%20%20electrodynamics.pdf" target="_blank">electrodynamics</a></li></ul>
