@@ -1,0 +1,42 @@
+.link-list {
+  line-height: 1.2;               /* нормальная межстрочка */
+  margin: 0;                      /* убираем лишние отступы сверху/снизу */
+  padding-left: 1.2em;            /* стандартный отступ для списка */
+  list-style-position: outside;   /* маркер снаружи */
+}
+
+.link-list li {
+  margin-bottom: 0.2em;           /* небольшой отступ между пунктами */
+}
+
+.link-list a {
+  overflow-wrap: anywhere;        /* переносить в любом месте */
+  word-break: break-word;         /* переносить внутри длинных слов */
+}
+
+.link-list a:hover {
+  text-decoration: underline;     /* подчёркивание при наведении */
+}
+
+
+
+
+
+/* Центрируем все lightbox-картинки */
+.lightbox-container,
+.lightbox-gallery {
+  display: flex;
+  justify-content: center; /* по центру */
+  gap: 1em;                /* расстояние между картинками */
+  flex-wrap: wrap;         /* чтобы на маленьком экране переносились */
+}
+
+.lightbox-caption {
+  white-space: pre-line;
+}
+
+
+/* Центрируем подписи */
+.lightbox-item {
+  text-align: center;
+}
