@@ -310,7 +310,7 @@ sections:
                 part 2
               </a>
             </li>
-            <li>
+            <li class="extra-space">
               <a href="/some%20projects/☐%20Green's%20function%20special%20methods.pdf" target="_blank" rel="noopener noreferrer">
                 Green's function special methods for condensed matter
               </a>
@@ -323,12 +323,12 @@ sections:
                 part 2
               </a>
             </li>
-            <li>
+            <li class="extra-space">
               <a href="/some%20projects/◘%20waveguide%20QED.pdf" target="_blank" rel="noopener noreferrer">
                 waveguide QED
               </a>
             </li>
-            <li>
+            <li class="extra-space">
               <a href="/some%20projects/◊%20gravitational%20lensing.pdf" target="_blank" rel="noopener noreferrer">
                 gravitational lensing
               </a>
@@ -338,7 +338,7 @@ sections:
                 gravitational waves
               </a>
             </li>
-            <li>
+            <li class="extra-space">
               <a href="/some%20projects/❁%20duality%20in%20special%20field%20theories.pdf" target="_blank" rel="noopener noreferrer">
                 duality in special field theories
               </a>

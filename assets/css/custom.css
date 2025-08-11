@@ -40,3 +40,10 @@
 .lightbox-item {
   text-align: center;
 }
+
+
+
+.link-list li.extra-space {
+  margin-top: 2em; /* отступ сверху */
+}
+
