@@ -3,6 +3,7 @@
     "tags": [
       "a",
       "article",
+      "b",
       "body",
       "br",
       "button",
@@ -33,7 +34,10 @@
       "section",
       "style",
       "svg",
+      "table",
+      "td",
       "title",
+      "tr",
       "ul"
     ],
     "classes": [

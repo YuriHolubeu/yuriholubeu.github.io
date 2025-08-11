@@ -54,19 +54,10 @@ sections:
             In this section, there are my main papers.
           </p>
 
-          <ul class="link-list">
-            <li>
-              Master's thesis:
-              <a href="/notes/masters_thesis_GF-MTJJ.pdf" target="_blank" rel="noopener noreferrer">
-                Green's Function for Multiterminal Josephson Junctions
-              </a>
-            </li>
-          </ul>
-
           <ul style="line-height: 1.2; margin: 0; padding-left: 1.2em;">
             <li style="margin-bottom: 0.2em;">
               Master's thesis:
-              <a href="https://nbviewer.org/github/YuriHolubeu/Notes/blob/main/some%20projects/masters_thesis_GF-MTJJ.pdf"
+              <a href="/some%20projects/masters_thesis_GF-MTJJ.pdf"
                 target="_blank"
                 style="overflow-wrap: anywhere; word-break: break-word;">
                 Green's Function for Multiterminal Josephson Junctions
@@ -75,7 +66,7 @@ sections:
 
             <li style="margin-bottom: 0.2em;">
               Bachelor's thesis:
-              <a href="https://nbviewer.org/github/YuriHolubeu/Notes/blob/main/some%20projects/bach_thesis_lensing.pdf"
+              <a href="/some%20projects/bach_thesis_lensing.pdf"
                 target="_blank"
                 style="overflow-wrap: anywhere; word-break: break-word;">
                 Gravitational Lensing of Binary Systems
@@ -100,7 +91,7 @@ sections:
       text: |-    
 
         <p style="line-height: 1.2;""><font size="3"> 
-        For many years I have been studying physics and mathematics using the a philosophy of doing science which I describe <a  href="https://nbviewer.org/github/YuriHolubeu/Notes/blob/main/learning physics.pdf" target="_blank">here</a>. In a nutshell, I believe that by structuring information in digital notes and separating the key methods and properties into a dedicated section, one can achieve a deeper understanding. The notes below are an unfinished demo version, which demonstrates how they will look after several years of development. Nevertheless, they contain many methods and many problems for practice with solutions. 
+        For many years I have been studying physics and mathematics using the a philosophy of doing science which I describe <a  href="/learning%20physics.pdf" target="_blank">here</a>. In a nutshell, I believe that by structuring information in digital notes and separating the key methods and properties into a dedicated section, one can achieve a deeper understanding. The notes below are an unfinished demo version, which demonstrates how they will look after several years of development. Nevertheless, they contain many methods and many problems for practice with solutions. 
         </font></p>
 
         <p style="line-height: 1.2;""><font size="3"> 
@@ -111,70 +102,70 @@ sections:
 
         <ul style="line-height: 1.2; margin: 0; padding-left: 1.2em;">
           <li style="margin-bottom: 0.2em;">
-            <a href="https://nbviewer.org/github/YuriHolubeu/Notes/blob/main/basic%20physics/%E2%96%A0%20%20mechanics.pdf"
+            <a href="/basic%20physics/%E2%96%A0%20%20mechanics.pdf"
               target="_blank" rel="noopener noreferrer"
               style="overflow-wrap: anywhere; word-break: break-word;">
               mechanics
             </a>
           </li>
           <li style="margin-bottom: 0.2em;">
-            <a href="https://nbviewer.org/github/YuriHolubeu/Notes/blob/main/basic%20physics/◊%20%20field%20theory.pdf"
+            <a href="/basic%20physics/◊%20%20field%20theory.pdf"
               target="_blank" rel="noopener noreferrer"
               style="overflow-wrap: anywhere; word-break: break-word;">
               field theory
             </a>
           </li>
           <li style="margin-bottom: 0.2em;">
-            <a href="https://nbviewer.org/github/YuriHolubeu/Notes/blob/main/basic%20physics/◊%20gravity.pdf"
+            <a href="/basic%20physics/◊%20gravity.pdf"
               target="_blank" rel="noopener noreferrer"
               style="overflow-wrap: anywhere; word-break: break-word;">
               gravity
             </a>
           </li>
           <li style="margin-bottom: 0.2em;">
-            <a href="https://nbviewer.org/github/YuriHolubeu/Notes/blob/main/basic%20physics/●%20%20quantum%20mechanics.pdf"
+            <a href="/basic%20physics/●%20%20quantum%20mechanics.pdf"
               target="_blank" rel="noopener noreferrer"
               style="overflow-wrap: anywhere; word-break: break-word;">
               quantum mechanics
             </a>
           </li>
           <li style="margin-bottom: 0.2em;">
-            <a href="https://nbviewer.org/github/YuriHolubeu/Notes/blob/main/basic%20physics/◘%20quantum%20field%20theory.pdf"
+            <a href="/basic%20physics/◘%20quantum%20field%20theory.pdf"
               target="_blank" rel="noopener noreferrer"
               style="overflow-wrap: anywhere; word-break: break-word;">
               quantum field theory
             </a>
           </li>
           <li style="margin-bottom: 0.2em;">
-            <a href="https://nbviewer.org/github/YuriHolubeu/Notes/blob/main/basic%20physics/☐%20%20statistical%20physics.pdf"
+            <a href="/basic%20physics/☐%20%20statistical%20physics.pdf"
               target="_blank" rel="noopener noreferrer"
               style="overflow-wrap: anywhere; word-break: break-word;">
               statistical physics
             </a>
           </li>
           <li style="margin-bottom: 0.2em;">
-            <a href="https://nbviewer.org/github/YuriHolubeu/Notes/blob/main/basic%20physics/☐%20condensed%20matter.pdf"
+            <a href="/basic%20physics/☐%20condensed%20matter.pdf"
               target="_blank" rel="noopener noreferrer"
               style="overflow-wrap: anywhere; word-break: break-word;">
               condensed matter
             </a>
           </li>
           <li style="margin-bottom: 0.2em;">
-            <a href="https://nbviewer.org/github/YuriHolubeu/Notes/blob/main/basic%20physics/♣%20%20electrodynamics.pdf"
+            <a href="/basic%20physics/♣%20%20electrodynamics.pdf"
               target="_blank" rel="noopener noreferrer"
               style="overflow-wrap: anywhere; word-break: break-word;">
               electrodynamics
             </a>
           </li>
           <li style="margin-bottom: 0.2em;">
-            <a href="https://nbviewer.org/github/YuriHolubeu/Notes/blob/main/basic%20physics/☼%20kinetics.pdf"
+            <a href="/basic%20physics/☼%20kinetics.pdf"
               target="_blank" rel="noopener noreferrer"
               style="overflow-wrap: anywhere; word-break: break-word;">
               kinetics
             </a>
           </li>
           <li style="margin-bottom: 0.2em;">
-            <a href="https://nbviewer.org/github/YuriHolubeu/Notes/blob/main/basic%20physics/❀%20continuum%20mechanics.pdf"
+            <a href="/basic%20physics/❀%20continuum%20mechanics.pdf"
               target="_blank" rel="noopener noreferrer"
               style="overflow-wrap: anywhere; word-break: break-word;">
               continuum mechanics
@@ -226,25 +217,25 @@ sections:
         
           <ul class="link-list">
           
-          <li><a href="https://nbviewer.org/github/YuriHolubeu/Notes/blob/main/mathematics/■%20%20mathematical analysis.pdf" target="_blank" rel="noopener noreferrer">mathematical analysis</a></li>
+          <li><a href="/mathematics/■%20%20mathematical%20analysis.pdf" target="_blank" rel="noopener noreferrer">mathematical analysis</a></li>
           
-          <li><a href="https://nbviewer.org/github/YuriHolubeu/Notes/blob/main/mathematics/■%20complex analysis.pdf" target="_blank" rel="noopener noreferrer">complex analysis</a></li>
+          <li><a href="/mathematics/■%20complex%20analysis.pdf" target="_blank" rel="noopener noreferrer">complex analysis</a></li>
           
-          <li><a href="https://nbviewer.org/github/YuriHolubeu/Notes/blob/main/mathematics/◊  differential equations.pdf" target="_blank" rel="noopener noreferrer">differential equations</a></li>
+          <li><a href="/mathematics/◊%20%20differential%20equations.pdf" target="_blank" rel="noopener noreferrer">differential equations</a></li>
           
-          <li><a href="https://nbviewer.org/github/YuriHolubeu/Notes/blob/main/mathematics/◊  partial differential equations.pdf" target="_blank" rel="noopener noreferrer">partial diff. equations</a></li>
+          <li><a href="/mathematics/◊%20%20partial differential equations.pdf" target="_blank" rel="noopener noreferrer">partial diff. equations</a></li>
           
-          <li><a href="https://nbviewer.org/github/YuriHolubeu/Notes/blob/main/mathematics/◊ oscillations.pdf" target="_blank" rel="noopener noreferrer">oscillations</a></li>
+          <li><a href="/mathematics/◊%20oscillations.pdf" target="_blank" rel="noopener noreferrer">oscillations</a></li>
           
-          <li><a href="https://nbviewer.org/github/YuriHolubeu/Notes/blob/main/mathematics/■ special functions.pdf" target="_blank" rel="noopener noreferrer">special functions</a></li>
+          <li><a href="/mathematics/■%20special%20functions.pdf" target="_blank" rel="noopener noreferrer">special functions</a></li>
           
-          <li><a href="https://nbviewer.org/github/YuriHolubeu/Notes/blob/main/mathematics/☐  algebra.pdf" target="_blank" rel="noopener noreferrer">algebra</a></li>
+          <li><a href="/mathematics/☐%20%20algebra.pdf" target="_blank" rel="noopener noreferrer">algebra</a></li>
           
-          <li><a href="https://nbviewer.org/github/YuriHolubeu/Notes/blob/main/mathematics/☐ linear algebra.pdf" target="_blank" rel="noopener noreferrer">linear algebra</a></li>
+          <li><a href="/mathematics/☐%20linear%20algebra.pdf" target="_blank" rel="noopener noreferrer">linear algebra</a></li>
           
-          <li><a href="https://nbviewer.org/github/YuriHolubeu/Notes/blob/main/mathematics/♣%20%20probability%20theory.pdf" target="_blank" rel="noopener noreferrer">probability theory</a></li>
+          <li><a href="/mathematics/♣%20%20probability%20theory.pdf" target="_blank" rel="noopener noreferrer">probability theory</a></li>
           
-          <li><a href="https://nbviewer.org/github/YuriHolubeu/Notes/blob/main/mathematics/◘ differential geometry.pdf" target="_blank" rel="noopener noreferrer">differential geometry</a></li>
+          <li><a href="/mathematics/◘%20differential%20geometry.pdf" target="_blank" rel="noopener noreferrer">differential geometry</a></li>
        
         </ul>
 
@@ -261,19 +252,19 @@ sections:
 
         <ul class="link-list">
           
-          <li><a href="https://nbviewer.org/github/YuriHolubeu/Notes/blob/main/specific%20physics/❁%20special%20field%20and%20gravity%20theories.pdf" target="_blank" rel="noopener noreferrer">special field theories</a></li>
+          <li><a href="/specific%20physics/❁%20special%20field%20and%20gravity%20theories.pdf" target="_blank" rel="noopener noreferrer">special field theories</a></li>
           
-          <li><a href="https://nbviewer.org/github/YuriHolubeu/Notes/blob/main/specific%20physics/◊%20cosmology.pdf" target="_blank" rel="noopener noreferrer">cosmology</a></li>
+          <li><a href="/specific%20physics/◊%20cosmology.pdf" target="_blank" rel="noopener noreferrer">cosmology</a></li>
           
-          <li><a href="https://nbviewer.org/github/YuriHolubeu/Notes/blob/main/specific%20physics/☐%20thermodynamics.pdf" target="_blank" rel="noopener noreferrer">thermodynamics</a></li>
+          <li><a href="/specific%20physics/☐%20thermodynamics.pdf" target="_blank" rel="noopener noreferrer">thermodynamics</a></li>
           
-          <li><a href="https://nbviewer.org/github/YuriHolubeu/Notes/blob/main/specific%20physics/♣%20magnetism.pdf" target="_blank" rel="noopener noreferrer">magnetism</a></li>
+          <li><a href="/specific%20physics/♣%20magnetism.pdf" target="_blank" rel="noopener noreferrer">magnetism</a></li>
           
-          <li><a href="https://nbviewer.org/github/YuriHolubeu/Notes/blob/main/specific%20physics/♣%20optics.pdf" target="_blank" rel="noopener noreferrer">optics</a></li>
+          <li><a href="/specific%20physics/♣%20optics.pdf" target="_blank" rel="noopener noreferrer">optics</a></li>
           
-          <li><a href="https://nbviewer.org/github/YuriHolubeu/Notes/blob/main/specific%20physics/☐%20superconductivity.pdf" target="_blank" rel="noopener noreferrer">superconductivity</a></li>
+          <li><a href="/specific%20physics/☐%20superconductivity.pdf" target="_blank" rel="noopener noreferrer">superconductivity</a></li>
 
-          <li><a href="https://nbviewer.org/github/YuriHolubeu/Notes/blob/main/specific%20physics/●%20quantum%20information%20theory.pdf" target="_blank" rel="noopener noreferrer">quantum information</a></li>
+          <li><a href="/specific%20physics/●%20quantum%20information%20theory.pdf" target="_blank" rel="noopener noreferrer">quantum information</a></li>
         </ul>
 
 
@@ -312,43 +303,43 @@ sections:
 
           <ul class="link-list">
             <li>
-              <a href="https://nbviewer.org/github/YuriHolubeu/Notes/blob/main/some%20projects/☐ spin models with dissipation p1.pdf" target="_blank" rel="noopener noreferrer">
+              <a href="/some%20projects/☐%20spin models%20with%20dissipation%20p1.pdf" target="_blank" rel="noopener noreferrer">
                 spin models with dissipation part 1
               </a>, 
-              <a href="https://nbviewer.org/github/YuriHolubeu/Notes/blob/main/some%20projects/☐ spin models with dissipation p2.pdf" target="_blank" rel="noopener noreferrer">
+              <a href="/some%20projects/☐%20spin%20models%20with dissipation%20p2.pdf" target="_blank" rel="noopener noreferrer">
                 part 2
               </a>
             </li>
             <li>
-              <a href="https://nbviewer.org/github/YuriHolubeu/Notes/blob/main/some%20projects/☐ Green's function special methods.pdf" target="_blank" rel="noopener noreferrer">
+              <a href="/some%20projects/☐%20Green's%20function%20special%20methods.pdf" target="_blank" rel="noopener noreferrer">
                 Green's function special methods for condensed matter
               </a>
             </li>
             <li>
-              <a href="https://nbviewer.org/github/YuriHolubeu/Notes/blob/main/some%20projects/☐ sc junctions p1.pdf" target="_blank" rel="noopener noreferrer">
+              <a href="/some%20projects/☐%20sc%20junctions%20p1.pdf" target="_blank" rel="noopener noreferrer">
                 superconductive junctions part 1
               </a>, 
-              <a href="https://nbviewer.org/github/YuriHolubeu/Notes/blob/main/some%20projects/☐ sc junctions p2.pdf" target="_blank" rel="noopener noreferrer">
+              <a href="/some%20projects/☐%20sc%20junctions%20p2.pdf" target="_blank" rel="noopener noreferrer">
                 part 2
               </a>
             </li>
             <li>
-              <a href="https://nbviewer.org/github/YuriHolubeu/Notes/blob/main/some%20projects/◘%20waveguide%20QED.pdf" target="_blank" rel="noopener noreferrer">
+              <a href="/some%20projects/◘%20waveguide%20QED.pdf" target="_blank" rel="noopener noreferrer">
                 waveguide QED
               </a>
             </li>
             <li>
-              <a href="https://nbviewer.org/github/YuriHolubeu/Notes/blob/main/some%20projects/◊%20gravitational%20lensing.pdf" target="_blank" rel="noopener noreferrer">
+              <a href="/some%20projects/◊%20gravitational%20lensing.pdf" target="_blank" rel="noopener noreferrer">
                 gravitational lensing
               </a>
             </li>
             <li>
-              <a href="https://nbviewer.org/github/YuriHolubeu/Notes/blob/main/some%20projects/◊%20gravitational%20waves.pdf" target="_blank" rel="noopener noreferrer">
+              <a href="/some%20projects/◊%20gravitational%20waves.pdf" target="_blank" rel="noopener noreferrer">
                 gravitational waves
               </a>
             </li>
             <li>
-              <a href="https://nbviewer.org/github/YuriHolubeu/Notes/blob/main/some%20projects/❁%20duality%20in%20special%20field%20theories.pdf" target="_blank" rel="noopener noreferrer">
+              <a href="/some%20projects/❁%20duality%20in%20special%20field%20theories.pdf" target="_blank" rel="noopener noreferrer">
                 duality in special field theories
               </a>
             </li>
