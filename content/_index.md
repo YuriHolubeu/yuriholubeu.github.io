@@ -54,6 +54,15 @@ sections:
             In this section, there are my main papers.
           </p>
 
+          <ul class="link-list">
+            <li>
+              Master's thesis:
+              <a href="/notes/masters_thesis_GF-MTJJ.pdf" target="_blank" rel="noopener noreferrer">
+                Green's Function for Multiterminal Josephson Junctions
+              </a>
+            </li>
+          </ul>
+
           <ul style="line-height: 1.2; margin: 0; padding-left: 1.2em;">
             <li style="margin-bottom: 0.2em;">
               Master's thesis:
@@ -63,6 +72,7 @@ sections:
                 Green's Function for Multiterminal Josephson Junctions
               </a>
             </li>
+
             <li style="margin-bottom: 0.2em;">
               Bachelor's thesis:
               <a href="https://nbviewer.org/github/YuriHolubeu/Notes/blob/main/some%20projects/bach_thesis_lensing.pdf"
