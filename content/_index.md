@@ -309,6 +309,14 @@ sections:
               <a href="/some%20projects/☐%20spin%20models%20with dissipation%20p2.pdf" target="_blank" rel="noopener noreferrer">
                 part 2
               </a>
+            </li>           
+             <li>
+              <a href="/some%20projects/☐%20nonequilibrium%20SC%20p1.pdf" target="_blank" rel="noopener noreferrer">
+                nonequilibrium superconductivity part 1
+              </a>, 
+              <a href="/some%20projects/☐%20nonequilibrium%20SC%20p2.pdf" target="_blank" rel="noopener noreferrer">
+                part 2
+              </a>
             </li>
             <li class="extra-space">
               <a href="/some%20projects/☐%20Green's%20function%20special%20methods.pdf" target="_blank" rel="noopener noreferrer">
@@ -329,8 +337,11 @@ sections:
               </a>
             </li>
             <li class="extra-space">
-              <a href="/some%20projects/◊%20gravitational%20lensing.pdf" target="_blank" rel="noopener noreferrer">
-                gravitational lensing
+               <a href="/some%20projects/◊%20wave%20optics%20for%20GL%20p1.pdf" target="_blank" rel="noopener noreferrer">
+                wave optics in gravitational lensing part 1
+              </a>, 
+              <a href="/some%20projects/◊%20wave%20optics%20for%20GL%20p1.pdf" target="_blank" rel="noopener noreferrer">
+                part 2
               </a>
             </li>
             <li>
