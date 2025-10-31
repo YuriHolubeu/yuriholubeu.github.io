@@ -30,6 +30,7 @@
       "polygon",
       "script",
       "section",
+      "strong",
       "style",
       "svg",
       "title",
@@ -218,7 +219,8 @@
       "show-button",
       "site-header",
       "sun",
-      "top"
+      "top",
+      "updates"
     ]
   }
 }

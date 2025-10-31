@@ -33,14 +33,6 @@ sections:
 
 
 
-
-#
-#
-#   !!!!!!  nbviewer.org обновляет большие файлы по одному дню (альтернатива -  вписывать в код коммит, что неудобно, ибо потом придется менять их)
-#
-#
-#
-
   
   
   - block: markdown
@@ -102,70 +94,70 @@ sections:
 
         <ul style="line-height: 1.2; margin: 0; padding-left: 1.2em;">
           <li style="margin-bottom: 0.2em;">
-            <a href="/basic%20physics/%E2%96%A0%20%20mechanics.pdf"
+            <a href="/basic%20physics/_mechanics.pdf"
               target="_blank" rel="noopener noreferrer"
               style="overflow-wrap: anywhere; word-break: break-word;">
               mechanics
             </a>
           </li>
           <li style="margin-bottom: 0.2em;">
-            <a href="/basic%20physics/◊%20%20field%20theory.pdf"
+            <a href="/basic%20physics/_field%20theory.pdf"
               target="_blank" rel="noopener noreferrer"
               style="overflow-wrap: anywhere; word-break: break-word;">
               field theory
             </a>
           </li>
           <li style="margin-bottom: 0.2em;">
-            <a href="/basic%20physics/◊%20gravity.pdf"
+            <a href="/basic%20physics/_gravity.pdf"
               target="_blank" rel="noopener noreferrer"
               style="overflow-wrap: anywhere; word-break: break-word;">
               gravity
             </a>
           </li>
           <li style="margin-bottom: 0.2em;">
-            <a href="/basic%20physics/●%20%20quantum%20mechanics.pdf"
+            <a href="/basic%20physics/_quantum%20mechanics.pdf"
               target="_blank" rel="noopener noreferrer"
               style="overflow-wrap: anywhere; word-break: break-word;">
               quantum mechanics
             </a>
           </li>
           <li style="margin-bottom: 0.2em;">
-            <a href="/basic%20physics/◘%20quantum%20field%20theory.pdf"
+            <a href="/basic%20physics/_quantum%20field%20theory.pdf"
               target="_blank" rel="noopener noreferrer"
               style="overflow-wrap: anywhere; word-break: break-word;">
               quantum field theory
             </a>
           </li>
           <li style="margin-bottom: 0.2em;">
-            <a href="/basic%20physics/☐%20%20statistical%20physics.pdf"
+            <a href="/basic%20physics/_statistical%20physics.pdf"
               target="_blank" rel="noopener noreferrer"
               style="overflow-wrap: anywhere; word-break: break-word;">
               statistical physics
             </a>
           </li>
           <li style="margin-bottom: 0.2em;">
-            <a href="/basic%20physics/☐%20condensed%20matter.pdf"
+            <a href="/basic%20physics/_condensed%20matter.pdf"
               target="_blank" rel="noopener noreferrer"
               style="overflow-wrap: anywhere; word-break: break-word;">
               condensed matter
             </a>
           </li>
           <li style="margin-bottom: 0.2em;">
-            <a href="/basic%20physics/♣%20%20electrodynamics.pdf"
+            <a href="/basic%20physics/_electrodynamics.pdf"
               target="_blank" rel="noopener noreferrer"
               style="overflow-wrap: anywhere; word-break: break-word;">
               electrodynamics
             </a>
           </li>
           <li style="margin-bottom: 0.2em;">
-            <a href="/basic%20physics/☼%20kinetics.pdf"
+            <a href="/basic%20physics/_kinetics.pdf"
               target="_blank" rel="noopener noreferrer"
               style="overflow-wrap: anywhere; word-break: break-word;">
               kinetics
             </a>
           </li>
           <li style="margin-bottom: 0.2em;">
-            <a href="/basic%20physics/❀%20continuum%20mechanics.pdf"
+            <a href="/basic%20physics/_continuum%20mechanics.pdf"
               target="_blank" rel="noopener noreferrer"
               style="overflow-wrap: anywhere; word-break: break-word;">
               continuum mechanics
@@ -260,9 +252,9 @@ sections:
           
           <li><a href="/specific%20physics/♣%20magnetism.pdf" target="_blank" rel="noopener noreferrer">magnetism</a></li>
           
-          <li><a href="/specific%20physics/♣%20optics.pdf" target="_blank" rel="noopener noreferrer">optics</a></li>
+          <li><a href="/specific%20physics/_optics.pdf" target="_blank" rel="noopener noreferrer">optics</a></li>
           
-          <li><a href="/specific%20physics/☐%20superconductivity.pdf" target="_blank" rel="noopener noreferrer">superconductivity</a></li>
+          <li><a href="/specific%20physics/_superconductivity.pdf" target="_blank" rel="noopener noreferrer">superconductivity</a></li>
 
           <li><a href="/specific%20physics/●%20quantum%20information%20theory.pdf" target="_blank" rel="noopener noreferrer">quantum information</a></li>
         </ul>
@@ -381,6 +373,17 @@ sections:
 
 
 
+
+  - block: markdown
+    id: updates
+    subtitle: "updates"
+    weight: 20
+    content:
+      title:  <h1>🧾 Selected Last Updates</h1>
+      text: |
+        On October 2025, I understood that I can make this page more lively by writing from time to time some main changes in the notes. There are many small changes each month, but it doesn’t make sense to list them all.
+
+        - **31.10.2025** — The translation of the table of contents of the main notes on physics to English is finished.
 
 
 

@@ -54,15 +54,11 @@ interests:
   - Quantum Field Theory
 
 education:
-  - area: MPhys  
-    year: Nov 2022-Jan 2025 
-    institution: KU Leuven    
-  - area: MSc 
-    year: Sep 2021-Apr 2022
-    institution: MIPT, DGAP 
-  - area: BSc  
+  - area: Researcher, PhD, Feb 2025 - now, Jožef Stefan Institute
+  - area: MPhys, Nov 2022 - Jan 2025, KU Leuven
+  - area: BSc, MSc  
     institution: MIPT, DGAP
-    year: 2016-2021
+    year: 2016 - 2022
 
 ---
 
@@ -70,7 +66,7 @@ education:
 
 
 
-Currently, I'm a researcher at the Institute of Stephen Joseph in Ljubljana.
+Currently, I'm a PhD student at Jožef Stefan Institute in Ljubljana, Slovenia.
 Most of my days, I keep thinking about some research-related topics or mastering typical methods of physics or mathematics.
 On this webpage, I have collected the notes that I made while passing courses at KU Leuven, MIPT, and while conducting research.
 I work on some of them daily and update them here once a month. 
