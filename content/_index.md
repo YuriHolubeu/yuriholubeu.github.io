@@ -379,11 +379,11 @@ sections:
     subtitle: "updates"
     weight: 20
     content:
-      title:  <h1>🧾 Selected Last Updates</h1>
+      title:  <h1>🧾 Selected Updates</h1>
       text: |
-        On October 2025, I understood that I can make this page more lively by writing from time to time some main changes in the notes. There are many small changes each month, but it doesn’t make sense to list them all.
+        In October 2025, I realized I could make this page more lively by occasionally highlighting the main changes in the notes. There are many small changes each month, but it doesn’t make sense to list them all.
 
-        - **31.10.2025** — The translation of the table of contents of the main notes on physics to English is finished.
+        - **03.11.2025** — The translation of the table of contents of the main notes on physics to English is finished.
 
 
 
