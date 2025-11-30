@@ -83,7 +83,7 @@ sections:
       text: |-    
 
         <p style="line-height: 1.2;""><font size="3"> 
-        For many years I have been studying physics and mathematics using the a philosophy of doing science which I describe <a  href="/learning%20physics.pdf" target="_blank">here</a>. In a nutshell, I believe that by structuring information in digital notes and separating the key methods and properties into a dedicated section, one can achieve a deeper understanding. The notes below are an unfinished demo version, which demonstrates how they will look after several years of development. Nevertheless, they contain many methods and many problems for practice with solutions. 
+        For many years I have been studying physics and mathematics using the a philosophy of doing science which I describe <a  href="/learning%20physics.pdf" target="_blank">here</a>. In a nutshell, I believe that by structuring information in digital notes and separating the key methods and properties into a dedicated section, one can achieve a deeper understanding. The notes below are an unfinished demo version, which demonstrates how they will look after several years of development. Nevertheless, they contain many theories and problems for practice with solutions. 
         </font></p>
 
         <p style="line-height: 1.2;""><font size="3"> 
@@ -209,25 +209,25 @@ sections:
         
           <ul class="link-list">
           
-          <li><a href="/mathematics/■%20%20mathematical%20analysis.pdf" target="_blank" rel="noopener noreferrer">mathematical analysis</a></li>
+          <li><a href="/mathematics/_mathematical%20analysis.pdf" target="_blank" rel="noopener noreferrer">mathematical analysis</a></li>
           
-          <li><a href="/mathematics/■%20complex%20analysis.pdf" target="_blank" rel="noopener noreferrer">complex analysis</a></li>
+          <li><a href="/mathematics/_complex%20analysis.pdf" target="_blank" rel="noopener noreferrer">complex analysis</a></li>
           
-          <li><a href="/mathematics/◊%20%20differential%20equations.pdf" target="_blank" rel="noopener noreferrer">differential equations</a></li>
+          <li><a href="/mathematics/_differential%20equations.pdf" target="_blank" rel="noopener noreferrer">differential equations</a></li>
           
-          <li><a href="/mathematics/◊%20%20partial differential equations.pdf" target="_blank" rel="noopener noreferrer">partial diff. equations</a></li>
+          <li><a href="/mathematics/_partial differential equations.pdf" target="_blank" rel="noopener noreferrer">partial diff. equations</a></li>
           
-          <li><a href="/mathematics/◊%20oscillations.pdf" target="_blank" rel="noopener noreferrer">oscillations</a></li>
+          <li><a href="/mathematics/_oscillations.pdf" target="_blank" rel="noopener noreferrer">oscillations</a></li>
           
-          <li><a href="/mathematics/■%20special%20functions.pdf" target="_blank" rel="noopener noreferrer">special functions</a></li>
+          <li><a href="/mathematics/_special%20functions.pdf" target="_blank" rel="noopener noreferrer">special functions</a></li>
           
-          <li><a href="/mathematics/☐%20%20algebra.pdf" target="_blank" rel="noopener noreferrer">algebra</a></li>
+          <li><a href="/mathematics/_algebra.pdf" target="_blank" rel="noopener noreferrer">algebra</a></li>
           
-          <li><a href="/mathematics/☐%20linear%20algebra.pdf" target="_blank" rel="noopener noreferrer">linear algebra</a></li>
+          <li><a href="/mathematics/_linear%20algebra.pdf" target="_blank" rel="noopener noreferrer">linear algebra</a></li>
           
-          <li><a href="/mathematics/♣%20%20probability%20theory.pdf" target="_blank" rel="noopener noreferrer">probability theory</a></li>
+          <li><a href="/mathematics/_probability%20theory.pdf" target="_blank" rel="noopener noreferrer">probability theory</a></li>
           
-          <li><a href="/mathematics/◘%20differential%20geometry.pdf" target="_blank" rel="noopener noreferrer">differential geometry</a></li>
+          <li><a href="/mathematics/_differential%20geometry.pdf" target="_blank" rel="noopener noreferrer">differential geometry</a></li>
        
         </ul>
 
@@ -244,19 +244,22 @@ sections:
 
         <ul class="link-list">
           
-          <li><a href="/specific%20physics/❁%20special%20field%20and%20gravity%20theories.pdf" target="_blank" rel="noopener noreferrer">special field theories</a></li>
+          <li><a href="/specific%20physics/_sp field and gravity theories.pdf" target="_blank" rel="noopener noreferrer">special field theories</a></li>
           
-          <li><a href="/specific%20physics/◊%20cosmology.pdf" target="_blank" rel="noopener noreferrer">cosmology</a></li>
+          <li><a href="/specific%20physics/_cosmology.pdf" target="_blank" rel="noopener noreferrer">cosmology</a></li>
           
-          <li><a href="/specific%20physics/☐%20thermodynamics.pdf" target="_blank" rel="noopener noreferrer">thermodynamics</a></li>
+          <li><a href="/specific%20physics/_thermodynamics.pdf" target="_blank" rel="noopener noreferrer">thermodynamics</a></li>
           
-          <li><a href="/specific%20physics/♣%20magnetism.pdf" target="_blank" rel="noopener noreferrer">magnetism</a></li>
+          <li><a href="/specific%20physics/_magnetism.pdf" target="_blank" rel="noopener noreferrer">magnetism</a></li>
           
           <li><a href="/specific%20physics/_optics.pdf" target="_blank" rel="noopener noreferrer">optics</a></li>
           
           <li><a href="/specific%20physics/_superconductivity.pdf" target="_blank" rel="noopener noreferrer">superconductivity</a></li>
 
-          <li><a href="/specific%20physics/●%20quantum%20information%20theory.pdf" target="_blank" rel="noopener noreferrer">quantum information</a></li>
+          <li><a href="/specific%20physics/_quantum%20information.pdf" target="_blank" rel="noopener noreferrer">quantum information</a></li>
+          
+          <li><a href="/specific%20physics/_particle%20physics.pdf" target="_blank" rel="noopener noreferrer">particle physics</a></li>
+          
         </ul>
 
 
@@ -295,18 +298,18 @@ sections:
 
           <ul class="link-list">
             <li>
-              <a href="/some%20projects/☐%20spin models%20with%20dissipation%20p1.pdf" target="_blank" rel="noopener noreferrer">
+              <a href="/some%20projects/_spin models%20with%20dissipation%20p1.pdf" target="_blank" rel="noopener noreferrer">
                 spin models with dissipation part 1
               </a>, 
-              <a href="/some%20projects/☐%20spin%20models%20with dissipation%20p2.pdf" target="_blank" rel="noopener noreferrer">
+              <a href="/some%20projects/_spin%20models%20with dissipation%20p2.pdf" target="_blank" rel="noopener noreferrer">
                 part 2
               </a>
             </li>           
              <li>
-              <a href="/some%20projects/☐%20nonequilibrium%20SC%20p1.pdf" target="_blank" rel="noopener noreferrer">
+              <a href="/some%20projects/_nonequilibrium%20SC%20p1.pdf" target="_blank" rel="noopener noreferrer">
                 nonequilibrium superconductivity part 1
               </a>, 
-              <a href="/some%20projects/☐%20nonequilibrium%20SC%20p2.pdf" target="_blank" rel="noopener noreferrer">
+              <a href="/some%20projects/_nonequilibrium%20SC%20p2.pdf" target="_blank" rel="noopener noreferrer">
                 part 2
               </a>
             </li>
@@ -383,8 +386,11 @@ sections:
       text: |
         In October 2025, I realized I could make this page more lively by occasionally highlighting the main changes in the notes. There are many small changes each month, but it doesn’t make sense to list them all.
 
-        - **03.11.2025** — The translation of the table of contents of the main notes on physics to English is finished.
 
+        - **30.11.2025** — The translation of the table of contents of notes here to English is finisehd.
+        
+
+        - **03.11.2025** — The translation of the table of contents of the main notes on physics to English is finished.
 
 
 
