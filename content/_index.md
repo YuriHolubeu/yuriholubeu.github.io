@@ -387,7 +387,7 @@ sections:
         In October 2025, I realized I could make this page more lively by occasionally highlighting the main changes in the notes. There are many small changes each month, but it doesn’t make sense to list them all.
 
 
-        - **30.11.2025** — The translation of the table of contents of notes here to English is finisehd.
+        - **30.11.2025** — The translation of the table of contents of all the notes to English is finished.
         
 
         - **03.11.2025** — The translation of the table of contents of the main notes on physics to English is finished.
