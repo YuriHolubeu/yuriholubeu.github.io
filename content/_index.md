@@ -295,16 +295,7 @@ sections:
         <p style="line-height: 1.2;""><font size="3"> 
         I had several research projects, which didn't lead to the creation of articles, but I tried my best and made notes on each. One of the projects below is currently my main project.
         </font></p>
-
-          <ul class="link-list">
-            <li>
-              <a href="/some%20projects/_spin models%20with%20dissipation%20p1.pdf" target="_blank" rel="noopener noreferrer">
-                spin models with dissipation part 1
-              </a>, 
-              <a href="/some%20projects/_spin%20models%20with dissipation%20p2.pdf" target="_blank" rel="noopener noreferrer">
-                part 2
-              </a>
-            </li>           
+          <ul class="link-list">        
              <li>
               <a href="/some%20projects/_nonequilibrium%20SC%20p1.pdf" target="_blank" rel="noopener noreferrer">
                 nonequilibrium superconductivity part 1
@@ -312,7 +303,25 @@ sections:
               <a href="/some%20projects/_nonequilibrium%20SC%20p2.pdf" target="_blank" rel="noopener noreferrer">
                 part 2
               </a>
-            </li>
+              </li>
+              <li>
+              <a href="/some%20projects/_polarons%20p1.pdf" target="_blank" rel="noopener noreferrer">
+                polarons part 1
+              </a>
+              </li> 
+               <li>
+              <a href="/some%20projects/_charge%20density%20waves.pdf" target="_blank" rel="noopener noreferrer">
+                charge density waves
+              </a> 
+              </li>
+             <li class="extra-space">
+              <a href="/some%20projects/_spin models%20with%20dissipation%20p1.pdf" target="_blank" rel="noopener noreferrer">
+                spin models with dissipation part 1
+              </a>, 
+              <a href="/some%20projects/_spin%20models%20with dissipation%20p2.pdf" target="_blank" rel="noopener noreferrer">
+                part 2
+              </a>
+            </li> 
             <li class="extra-space">
               <a href="/some%20projects/☐%20Green's%20function%20special%20methods.pdf" target="_blank" rel="noopener noreferrer">
                 Green's function special methods for condensed matter
@@ -387,10 +396,10 @@ sections:
         In October 2025, I realized I could make this page more lively by occasionally highlighting the main changes in the notes. There are many small changes each month, but it doesn’t make sense to list them all.
 
 
-        - **30.11.2025** — The translation of the table of contents of all the notes to English is finished.
+        - **30.11.2025** — The translation of tables of contents of all the notes here to English is finished.
         
 
-        - **03.11.2025** — The translation of the table of contents of the main notes on physics to English is finished.
+        - **03.11.2025** — The translation of tables of contents of the main notes on physics to English is finished.
 
 
 
