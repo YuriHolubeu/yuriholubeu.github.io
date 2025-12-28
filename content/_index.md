@@ -219,8 +219,6 @@ sections:
           
           <li><a href="/mathematics/_oscillations.pdf" target="_blank" rel="noopener noreferrer">oscillations</a></li>
           
-          <li><a href="/mathematics/_special%20functions.pdf" target="_blank" rel="noopener noreferrer">special functions</a></li>
-          
           <li><a href="/mathematics/_algebra.pdf" target="_blank" rel="noopener noreferrer">algebra</a></li>
           
           <li><a href="/mathematics/_linear%20algebra.pdf" target="_blank" rel="noopener noreferrer">linear algebra</a></li>
@@ -336,7 +334,7 @@ sections:
               </a>
             </li>
             <li class="extra-space">
-              <a href="/some%20projects/◘%20waveguide%20QED.pdf" target="_blank" rel="noopener noreferrer">
+              <a href="/some%20projects/_waveguide%20QED.pdf" target="_blank" rel="noopener noreferrer">
                 waveguide QED
               </a>
             </li>
