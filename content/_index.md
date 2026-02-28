@@ -305,6 +305,9 @@ sections:
               <li>
               <a href="/some%20projects/_polarons%20p1.pdf" target="_blank" rel="noopener noreferrer">
                 polarons part 1
+              </a>, 
+              <a href="/some%20projects/_polarons%20p2.pdf" target="_blank" rel="noopener noreferrer">
+                part 2
               </a>
               </li> 
                <li>
@@ -393,6 +396,9 @@ sections:
       text: |
         In October 2025, I realized I could make this page more lively by occasionally highlighting the main changes in the notes. There are many small changes each month, but it doesn’t make sense to list them all.
 
+
+        - **28.02.2026** — The note on condensed matter became the first one that exceeded 3000 pages.
+        
 
         - **30.11.2025** — The translation of tables of contents of all the notes here to English is finished.
         
