@@ -173,7 +173,7 @@ sections:
 
         <p style="line-height: 1.2;">
           <font size="3">
-          Guided by a general philosophy of doing science (outlined <a href="/learning%20physics.pdf" target="_blank">here</a>), I have developed a set of physics notes. These can be seen as an attempt to reinterpret Landau's books in a form that is more relevant today. However, it does not make sense to focus on further developing them at the moment, as this work does not generate income. It is more productive to concentrate on one or two research directions rather than spread efforts across many general topics in physics. Currently, I update the notes only as needed.
+          Guided by a general philosophy of doing science (outlined <a href="/learning%20physics.pdf" target="_blank">here</a>), I have developed a set of physics notes. These can be seen as an attempt to rewrite Landau's books in a form that is more relevant today. However, it does not make sense to focus on further developing them at the moment, as this work does not generate income. It is more productive to concentrate on one or two research directions rather than spread efforts across many general topics in physics. Currently, I update the notes only as needed.
           </font>
         </p>
 
