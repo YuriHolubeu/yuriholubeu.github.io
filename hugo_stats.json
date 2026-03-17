@@ -3,6 +3,7 @@
     "tags": [
       "a",
       "article",
+      "b",
       "body",
       "br",
       "button",
@@ -34,7 +35,10 @@
       "strong",
       "style",
       "svg",
+      "table",
+      "td",
       "title",
+      "tr",
       "ul"
     ],
     "classes": [
@@ -216,6 +220,9 @@
       "othernotes",
       "page-bg",
       "profile",
+      "researchnotes",
+      "researchnotes_current",
+      "researchnotes_old",
       "section-resume-biography-3",
       "show-button",
       "site-header",

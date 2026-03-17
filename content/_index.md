@@ -33,139 +33,162 @@ sections:
 
 
 
-  
-  
+
+
   - block: markdown
-    id: Research
+    id: researchnotes_old
     content:
-      title: <h1>Research </h1>
+      title: <h1>Notes on Current Research Projects</h1>
       subtitle: ''
-
-      text: |-    
-          <p style="line-height: 1.2; font-size: 1rem;">
-            In this section, there are my main papers.
-          </p>
-
-          <ul style="line-height: 1.2; margin: 0; padding-left: 1.2em;">
-            <li style="margin-bottom: 0.2em;">
-              Master's thesis:
-              <a href="/some%20projects/masters_thesis_GF-MTJJ.pdf"
-                target="_blank"
-                style="overflow-wrap: anywhere; word-break: break-word;">
-                Green's Function for Multiterminal Josephson Junctions
-              </a>
-            </li>
-
-            <li style="margin-bottom: 0.2em;">
-              Bachelor's thesis:
-              <a href="/some%20projects/bach_thesis_lensing.pdf"
-                target="_blank"
-                style="overflow-wrap: anywhere; word-break: break-word;">
-                Gravitational Lensing of Binary Systems
-              </a>
-            </li>
-          </ul>
+      text: |-
 
 
+        <ul class="link-list">
+
+
+          <li>
+            <a href="/some%20projects/_polarons%20p1.pdf" target="_blank">polarons part 1</a>,
+            <a href="/some%20projects/_polarons%20p2.pdf" target="_blank">part 2</a>
+          </li>
+
+          <div style="height: 0.5em;"></div>
+
+
+          <li style="margin-bottom: 0.2em;">
+            <a href="/some%20projects/_charge%20density%20waves.pdf" target="_blank">charge density waves</a>
+          </li>
+
+          <div style="height: 0.5em;"></div>
+
+
+          <li>
+            <a href="/some%20projects/_nonequilibrium%20SC%20p1.pdf" target="_blank">nonequilibrium superconductivity part 1</a>,
+            <a href="/some%20projects/_nonequilibrium%20SC%20p2.pdf" target="_blank">part 2</a>
+          </li>
+
+
+        </ul>
 
 
 
-    design:
-      columns: '1'
 
-  
+
   - block: markdown
-    id: notes
+    id: researchnotes_current
     content:
-      title: <h1>Notes on Basic Physics </h1>
+      title: <h1>Notes on Research Projects That I Am Not Doing Now</h1>
       subtitle: ''
+      text: |-
 
-      text: |-    
-
-        <p style="line-height: 1.2;""><font size="3"> 
-        For many years I have been studying physics and mathematics using the a philosophy of doing science which I describe <a  href="/learning%20physics.pdf" target="_blank">here</a>. In a nutshell, I believe that by structuring information in digital notes and separating the key methods and properties into a dedicated section, one can achieve a deeper understanding. The notes below are an unfinished demo version, which demonstrates how they will look after several years of development. Nevertheless, they contain many theories and problems for practice with solutions. 
-        </font></p>
-
-        <p style="line-height: 1.2;""><font size="3"> 
-        In this section, there are notes on the most important parts of physics. 
+        <p style="line-height: 1.2;"><font size="3"></font></p>
         
-        </font></p>
+        
+        <ul style="line-height: 1.2; margin: 0 0 1em 0; padding-left: 1.2em;">
+          <li style="margin-bottom: 0.2em;">
+            Master's thesis:
+            <a href="/some%20projects/masters_thesis_GF-MTJJ.pdf" target="_blank">
+              Green's Function for Multiterminal Josephson Junctions
+            </a>
+          </li>
 
-
-        <ul style="line-height: 1.2; margin: 0; padding-left: 1.2em;">
           <li style="margin-bottom: 0.2em;">
-            <a href="/basic%20physics/_mechanics.pdf"
-              target="_blank" rel="noopener noreferrer"
-              style="overflow-wrap: anywhere; word-break: break-word;">
-              mechanics
-            </a>
-          </li>
-          <li style="margin-bottom: 0.2em;">
-            <a href="/basic%20physics/_field%20theory.pdf"
-              target="_blank" rel="noopener noreferrer"
-              style="overflow-wrap: anywhere; word-break: break-word;">
-              field theory
-            </a>
-          </li>
-          <li style="margin-bottom: 0.2em;">
-            <a href="/basic%20physics/_gravity.pdf"
-              target="_blank" rel="noopener noreferrer"
-              style="overflow-wrap: anywhere; word-break: break-word;">
-              gravity
-            </a>
-          </li>
-          <li style="margin-bottom: 0.2em;">
-            <a href="/basic%20physics/_quantum%20mechanics.pdf"
-              target="_blank" rel="noopener noreferrer"
-              style="overflow-wrap: anywhere; word-break: break-word;">
-              quantum mechanics
-            </a>
-          </li>
-          <li style="margin-bottom: 0.2em;">
-            <a href="/basic%20physics/_quantum%20field%20theory.pdf"
-              target="_blank" rel="noopener noreferrer"
-              style="overflow-wrap: anywhere; word-break: break-word;">
-              quantum field theory
-            </a>
-          </li>
-          <li style="margin-bottom: 0.2em;">
-            <a href="/basic%20physics/_statistical%20physics.pdf"
-              target="_blank" rel="noopener noreferrer"
-              style="overflow-wrap: anywhere; word-break: break-word;">
-              statistical physics
-            </a>
-          </li>
-          <li style="margin-bottom: 0.2em;">
-            <a href="/basic%20physics/_condensed%20matter.pdf"
-              target="_blank" rel="noopener noreferrer"
-              style="overflow-wrap: anywhere; word-break: break-word;">
-              condensed matter
-            </a>
-          </li>
-          <li style="margin-bottom: 0.2em;">
-            <a href="/basic%20physics/_electrodynamics.pdf"
-              target="_blank" rel="noopener noreferrer"
-              style="overflow-wrap: anywhere; word-break: break-word;">
-              electrodynamics
-            </a>
-          </li>
-          <li style="margin-bottom: 0.2em;">
-            <a href="/basic%20physics/_kinetics.pdf"
-              target="_blank" rel="noopener noreferrer"
-              style="overflow-wrap: anywhere; word-break: break-word;">
-              kinetics
-            </a>
-          </li>
-          <li style="margin-bottom: 0.2em;">
-            <a href="/basic%20physics/_continuum%20mechanics.pdf"
-              target="_blank" rel="noopener noreferrer"
-              style="overflow-wrap: anywhere; word-break: break-word;">
-              continuum mechanics
+            Bachelor's thesis:
+            <a href="/some%20projects/bach_thesis_lensing.pdf" target="_blank">
+              Gravitational Lensing of Binary Systems
             </a>
           </li>
         </ul>
+
         
-        </div>
+        <ul class="link-list">
+          
+
+          <li class="extra-space">
+            <a href="/some%20projects/_spin models%20with%20dissipation%20p1.pdf" target="_blank" rel="noopener noreferrer">
+              spin models with dissipation part 1
+            </a>,
+            <a href="/some%20projects/_spin%20models%20with dissipation%20p2.pdf" target="_blank" rel="noopener noreferrer">
+              part 2
+            </a>
+          </li>
+
+          <li class="extra-space">
+            <a href="/some%20projects/☐%20Green's%20function%20special%20methods.pdf" target="_blank" rel="noopener noreferrer">
+              Green's function special methods for condensed matter
+            </a>
+          </li>
+
+          <li>
+            <a href="/some%20projects/☐%20sc%20junctions%20p1.pdf" target="_blank" rel="noopener noreferrer">
+              superconductive junctions part 1
+            </a>,
+            <a href="/some%20projects/☐%20sc%20junctions%20p2.pdf" target="_blank" rel="noopener noreferrer">
+              part 2
+            </a>
+          </li>
+
+          <li class="extra-space">
+            <a href="/some%20projects/_waveguide%20QED.pdf" target="_blank" rel="noopener noreferrer">
+              waveguide QED
+            </a>
+          </li>
+
+          <li class="extra-space">
+            <a href="/some%20projects/◊%20wave%20optics%20for%20GL%20p1.pdf" target="_blank" rel="noopener noreferrer">
+              wave optics in gravitational lensing part 1
+            </a>,
+            <a href="/some%20projects/◊%20wave%20optics%20for%20GL%20p2.pdf" target="_blank" rel="noopener noreferrer">
+              part 2
+            </a>
+          </li>
+
+          <li>
+            <a href="/some%20projects/◊%20gravitational%20waves.pdf" target="_blank" rel="noopener noreferrer">
+              gravitational waves
+            </a>
+          </li>
+
+          <li class="extra-space">
+            <a href="/some%20projects/❁%20duality%20in%20special%20field%20theories.pdf" target="_blank" rel="noopener noreferrer">
+              duality in special field theories
+            </a>
+          </li>
+        </ul>
+
+
+
+
+
+
+
+
+
+
+  - block: markdown
+    id: notes
+    content:
+      title: <h1>Notes on Basic Physics</h1>
+      subtitle: ''
+      text: |-
+
+        <p style="line-height: 1.2;">
+          <font size="3">
+          Guided by a general philosophy of doing science (outlined <a href="/learning%20physics.pdf" target="_blank">here</a>), I have developed a set of physics notes. These can be seen as an attempt to reinterpret Landau's books in a form that is more relevant today. However, it does not make sense to focus on further developing them at the moment, as this work does not generate income. It is more productive to concentrate on one or two research directions rather than spread efforts across many general topics in physics. Currently, I update the notes only as needed.
+          </font>
+        </p>
+
+        <ul style="line-height: 1.2; margin: 0; padding-left: 1.2em;">
+          <li><a href="/basic%20physics/_mechanics.pdf" target="_blank">mechanics</a></li>
+          <li><a href="/basic%20physics/_field%20theory.pdf" target="_blank">field theory</a></li>
+          <li><a href="/basic%20physics/_gravity.pdf" target="_blank">gravity</a></li>
+          <li><a href="/basic%20physics/_quantum%20mechanics.pdf" target="_blank">quantum mechanics</a></li>
+          <li><a href="/basic%20physics/_quantum%20field%20theory.pdf" target="_blank">quantum field theory</a></li>
+          <li><a href="/basic%20physics/_statistical%20physics.pdf" target="_blank">statistical physics</a></li>
+          <li><a href="/basic%20physics/_condensed%20matter.pdf" target="_blank">condensed matter</a></li>
+          <li><a href="/basic%20physics/_electrodynamics.pdf" target="_blank">electrodynamics</a></li>
+          <li><a href="/basic%20physics/_kinetics.pdf" target="_blank">kinetics</a></li>
+          <li><a href="/basic%20physics/_continuum%20mechanics.pdf" target="_blank">continuum mechanics</a></li>
+        </ul>
 
 
 
@@ -194,8 +217,8 @@ sections:
         
 
         <p style="line-height: 1.2;""><font size="3">   
-        From time to time I study mathematics or some specific fields of physics, and below are my notes on some of the most important of them.
-          </font></p>
+        Physics and mathematics cover many specialized topics, so I created notes on those areas that are most likely to be useful. Such notes will remain untouched, unless they are needed for my research.
+        </font></p>
 
 
 
@@ -282,89 +305,6 @@ sections:
 
 
 
-          
-  - block: markdown
-    id: researchnotes
-    content:
-      title: <h1>Notes on Some Research Projects in Physics</h1>
-      subtitle: ''
-      text: |-
-    
-        <p style="line-height: 1.2;""><font size="3"> 
-        I had several research projects, which didn't lead to the creation of articles, but I tried my best and made notes on each. One of the projects below is currently my main project.
-        </font></p>
-          <ul class="link-list">        
-             <li>
-              <a href="/some%20projects/_nonequilibrium%20SC%20p1.pdf" target="_blank" rel="noopener noreferrer">
-                nonequilibrium superconductivity part 1
-              </a>, 
-              <a href="/some%20projects/_nonequilibrium%20SC%20p2.pdf" target="_blank" rel="noopener noreferrer">
-                part 2
-              </a>
-              </li>
-              <li>
-              <a href="/some%20projects/_polarons%20p1.pdf" target="_blank" rel="noopener noreferrer">
-                polarons part 1
-              </a>, 
-              <a href="/some%20projects/_polarons%20p2.pdf" target="_blank" rel="noopener noreferrer">
-                part 2
-              </a>
-              </li> 
-               <li>
-              <a href="/some%20projects/_charge%20density%20waves.pdf" target="_blank" rel="noopener noreferrer">
-                charge density waves
-              </a> 
-              </li>
-             <li class="extra-space">
-              <a href="/some%20projects/_spin models%20with%20dissipation%20p1.pdf" target="_blank" rel="noopener noreferrer">
-                spin models with dissipation part 1
-              </a>, 
-              <a href="/some%20projects/_spin%20models%20with dissipation%20p2.pdf" target="_blank" rel="noopener noreferrer">
-                part 2
-              </a>
-            </li> 
-            <li class="extra-space">
-              <a href="/some%20projects/☐%20Green's%20function%20special%20methods.pdf" target="_blank" rel="noopener noreferrer">
-                Green's function special methods for condensed matter
-              </a>
-            </li>
-            <li>
-              <a href="/some%20projects/☐%20sc%20junctions%20p1.pdf" target="_blank" rel="noopener noreferrer">
-                superconductive junctions part 1
-              </a>, 
-              <a href="/some%20projects/☐%20sc%20junctions%20p2.pdf" target="_blank" rel="noopener noreferrer">
-                part 2
-              </a>
-            </li>
-            <li class="extra-space">
-              <a href="/some%20projects/_waveguide%20QED.pdf" target="_blank" rel="noopener noreferrer">
-                waveguide QED
-              </a>
-            </li>
-            <li class="extra-space">
-               <a href="/some%20projects/◊%20wave%20optics%20for%20GL%20p1.pdf" target="_blank" rel="noopener noreferrer">
-                wave optics in gravitational lensing part 1
-              </a>, 
-              <a href="/some%20projects/◊%20wave%20optics%20for%20GL%20p1.pdf" target="_blank" rel="noopener noreferrer">
-                part 2
-              </a>
-            </li>
-            <li>
-              <a href="/some%20projects/◊%20gravitational%20waves.pdf" target="_blank" rel="noopener noreferrer">
-                gravitational waves
-              </a>
-            </li>
-            <li class="extra-space">
-              <a href="/some%20projects/❁%20duality%20in%20special%20field%20theories.pdf" target="_blank" rel="noopener noreferrer">
-                duality in special field theories
-              </a>
-            </li>
-          </ul>
-
-
-        </div>
-
-
 
   - block: markdown
     id: diplomas
@@ -394,8 +334,10 @@ sections:
     content:
       title:  <h1>🧾 Selected Updates</h1>
       text: |
-        In October 2025, I realized I could make this page more lively by occasionally highlighting the main changes in the notes. There are many small changes each month, but it doesn’t make sense to list them all.
 
+
+        - **17.03.2026** — I am abandoning the idea of writing physics books. I used this approach for about 6 years, I learned a lot, but this project is still far to be finished. Without grants to support it, I realized it is easier to focus on producing high-quality research than to write such books. I will focus a lot on them again someday in the future. Maybe. Anyway, such activity gives a lot of understanding, so I am motivated to return to it someday.
+        
 
         - **28.02.2026** — The note on condensed matter became the first one that exceeded 3000 pages.
         
@@ -404,6 +346,9 @@ sections:
         
 
         - **03.11.2025** — The translation of tables of contents of the main notes on physics to English is finished.
+
+
+        - **October 2025** — I realized I could make this page more lively by occasionally highlighting the main changes in my notes and my research.
 
 
 
