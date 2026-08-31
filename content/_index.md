@@ -36,7 +36,7 @@ sections:
 
 
   - block: markdown
-    id: researchnotes_old
+    id: researchnotes_current
     content:
       title: <h1>Notes on Current Research Projects</h1>
       subtitle: ''
@@ -54,16 +54,13 @@ sections:
           <div style="height: 0.5em;"></div>
 
 
-          <li style="margin-bottom: 0.2em;">
-            <a href="/some%20projects/_charge%20density%20waves.pdf" target="_blank">charge density waves</a>
-          </li>
 
           <div style="height: 0.5em;"></div>
 
 
           <li>
-            <a href="/some%20projects/_nonequilibrium%20SC%20p1.pdf" target="_blank">nonequilibrium superconductivity part 1</a>,
-            <a href="/some%20projects/_nonequilibrium%20SC%20p2.pdf" target="_blank">part 2</a>
+            <a href="/some%20projects/_TMDCs%20p1.pdf" target="_blank">transition metal dichalcogenides part 1</a>,
+            <a href="/some%20projects/_TMDCs%20p2.pdf" target="_blank">part 2</a>
           </li>
 
 
@@ -74,9 +71,9 @@ sections:
 
 
   - block: markdown
-    id: researchnotes_current
+    id: researchnotes_old
     content:
-      title: <h1>Notes on Research Projects That I Am Not Doing Now</h1>
+      title: <h1>Notes on Past Research Projects</h1>
       subtitle: ''
       text: |-
 
@@ -142,21 +139,60 @@ sections:
             </a>
           </li>
 
+
+
+
+          <div style="height: 1em;"></div>
+
+
           <li>
-            <a href="/some%20projects/◊%20gravitational%20waves.pdf" target="_blank" rel="noopener noreferrer">
-              gravitational waves
-            </a>
+            <a href="/some%20projects/_nonequilibrium%20SC%20p1.pdf" target="_blank">nonequilibrium superconductivity part 1</a>,
+            <a href="/some%20projects/_nonequilibrium%20SC%20p2.pdf" target="_blank">part 2</a>
           </li>
+
+        </ul>
+
+
+
+
+
+
+
+  - block: markdown
+    id: researchnotes_current
+    content:
+      title: <h1>Notes on Minor Research Projects</h1>
+      subtitle: ''
+      text: |-
+
+
+        <ul class="link-list">
+
+
+          <li style="margin-bottom: 0.2em;">
+            <a href="/some%20projects/_charge%20density%20waves.pdf" target="_blank">charge density waves</a>
+          </li>
+
 
           <li class="extra-space">
             <a href="/some%20projects/❁%20duality%20in%20special%20field%20theories.pdf" target="_blank" rel="noopener noreferrer">
               duality in special field theories
             </a>
           </li>
+
+
+          <div style="height: 0.5em;"></div>
+
+
+
+          <li>
+            <a href="/some%20projects/◊%20gravitational%20waves.pdf" target="_blank" rel="noopener noreferrer">
+              gravitational waves
+            </a>
+          </li>
+
+
         </ul>
-
-
-
 
 
 

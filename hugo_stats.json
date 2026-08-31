@@ -3,7 +3,6 @@
     "tags": [
       "a",
       "article",
-      "b",
       "body",
       "br",
       "button",
@@ -29,16 +28,12 @@
       "p",
       "path",
       "polygon",
-      "pre",
       "script",
       "section",
       "strong",
       "style",
       "svg",
-      "table",
-      "td",
       "title",
-      "tr",
       "ul"
     ],
     "classes": [
@@ -209,9 +204,7 @@
       "z-30"
     ],
     "ids": [
-      "Research",
       "about-me",
-      "diplomas",
       "hide-button",
       "moon",
       "nav-menu",
@@ -220,7 +213,6 @@
       "othernotes",
       "page-bg",
       "profile",
-      "researchnotes",
       "researchnotes_current",
       "researchnotes_old",
       "section-resume-biography-3",
